@@ -10175,28 +10175,6 @@ olx_data=[
     "is_house": false
   },
   {
-    "id": "olx:686020103",
-    "title": "Dom z bali nad jeziorem - Kaszuby-wolne terminy",
-    "location": "brze\u017ano szlacheckie",
-    "url": "https://www.olx.pl/d/oferta/dom-z-bali-nad-jeziorem-kaszuby-wolne-terminy-CID3-IDKqtan.html",
-    "price": 500,
-    "area": "120",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/p4ph3p13h3sf1-PL/image;s=2800x1575",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/o63dgt3hhpin1-PL/image;s=4160x2340",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/0xdh5kw1kwgl1-PL/image;s=4160x2340",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/qrdthc6zks9m3-PL/image;s=2340x4160",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/t2tp95nfsp4n1-PL/image;s=2340x4160",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/lq5lzl4mf96h1-PL/image;s=2340x4160",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/yoc8c0cpfwfo-PL/image;s=4160x2340",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/tx0z1mtdzsfc1-PL/image;s=1440x1920"
-    ],
-    "source": "olx",
-    "date": "2022-07-25T15:20:37+02:00",
-    "is_house": true
-  },
-  {
     "id": "olx:734512731",
     "title": "Dom wakacyjny nad jeziorem Kaszuby dla 14 os\u00f3b",
     "location": "za\u0142akowo",
@@ -10219,6 +10197,25 @@ olx_data=[
     "is_house": true
   },
   {
+    "id": "olx:759447112",
+    "title": "DOM w zabudowie szeregowej do wynaj\u0119cia. REWA  GDYNIA",
+    "location": "suchy dw\u00f3r",
+    "url": "https://www.olx.pl/d/oferta/dom-w-zabudowie-szeregowej-do-wynajecia-rewa-gdynia-CID3-IDPoySY.html",
+    "price": 800,
+    "area": "110",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/t5li8o4q2vfh1-PL/image;s=2000x1600",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/urmj8p29ehir1-PL/image;s=2000x1600",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/33vss6nluo6a-PL/image;s=2000x1600",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/7q0tx9zsue3d1-PL/image;s=2000x1600",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/eirh2xu835q83-PL/image;s=3024x4032"
+    ],
+    "source": "olx",
+    "date": "2022-07-26T19:24:16+02:00",
+    "is_house": true
+  },
+  {
     "id": "olx:768804245",
     "title": "Noclegi nad morzem, wakacje nad morzem 6-12 os WOLNY OD 31.07",
     "location": "\u0142eba",
@@ -10235,6 +10232,28 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-07-26T01:08:15+02:00",
+    "is_house": true
+  },
+  {
+    "id": "olx:771383696",
+    "title": "Kamienica 400 m wraz z dzia\u0142k\u0105 w Dolnym Sopocie ! Jedyna taka oferta!",
+    "location": "sopot, dolny sopot",
+    "url": "https://www.olx.pl/d/oferta/kamienica-400-m-wraz-z-dzialka-w-dolnym-sopocie-jedyna-taka-oferta-CID3-IDQcE8v.html",
+    "price": 70000,
+    "area": "400",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/30hgud5tvy1u1-PL/image;s=3927x3060",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vbuxhib92oz3-PL/image;s=4712x3479",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4lmcxxalmh4b2-PL/image;s=3749x2824",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/wfq9nmustynd-PL/image;s=3847x3478",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/h2mget7xmfrt-PL/image;s=2039x1479",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/atvlb0fomuln3-PL/image;s=2190x1567",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tmhekoqb89b52-PL/image;s=2101x1404",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/pkemae8waq6x-PL/image;s=1768x1284"
+    ],
+    "source": "olx",
+    "date": "2022-07-27T11:30:26+02:00",
     "is_house": true
   },
   {
@@ -10302,6 +10321,48 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-07-27T09:27:35+02:00",
+    "is_house": true
+  },
+  {
+    "id": "olx:766974791",
+    "title": "Domki nad morzem z \u0142azienk\u0105, aneksem, tv, wi-fi WOLNE TERMINY",
+    "location": "\u0142eba",
+    "url": "https://www.olx.pl/d/oferta/domki-nad-morzem-z-lazienka-aneksem-tv-wi-fi-wolne-terminy-CID3-IDPU9b9.html",
+    "price": 250,
+    "area": "70",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/aasilji4ggv3-PL/image;s=2000x1334",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/n7mtjkmr2u2z2-PL/image;s=3000x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/roa8wvrmkktp3-PL/image;s=3000x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xp33moesspfa2-PL/image;s=2000x1334",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/grurmvskon1t-PL/image;s=2000x1334",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/dsr3umj99ck53-PL/image;s=2000x1334"
+    ],
+    "source": "olx",
+    "date": "2022-07-27T08:35:01+02:00",
+    "is_house": true
+  },
+  {
+    "id": "olx:758548452",
+    "title": "Domki nad morzem (Ruska Bania ROWERY) WOLNE 31.07, 21.08-26.08",
+    "location": "\u0142eba",
+    "url": "https://www.olx.pl/d/oferta/domki-nad-morzem-ruska-bania-rowery-wolne-31-07-21-08-26-08-CID3-IDPkN6s.html",
+    "price": 250,
+    "area": "50",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ame6za82q3hc2-PL/image;s=3000x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/2rxwl6j4gqc23-PL/image;s=3000x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xnj24zalpvmy1-PL/image;s=3000x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/a7mlqnrtl1hf-PL/image;s=3000x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8wopr3jsqxs42-PL/image;s=3000x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/sg7rfi4nr32f2-PL/image;s=3000x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/mf5y0ipny5f22-PL/image;s=2000x1333",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vsobwfp003sx-PL/image;s=3000x2000"
+    ],
+    "source": "olx",
+    "date": "2022-07-27T08:34:32+02:00",
     "is_house": true
   },
   {
@@ -10394,66 +10455,68 @@ olx_data=[
     "is_house": true
   },
   {
-    "id": "olx:651840110",
-    "title": "Domek gospodarczy do wynaj\u0119cia 2800 ca\u0142kowity koszt wynajmu",
-    "location": "starogard gda\u0144ski",
-    "url": "https://www.olx.pl/d/oferta/domek-gospodarczy-do-wynajecia-2800-calkowity-koszt-wynajmu-CID3-IDI73oa.html",
-    "price": 2800,
-    "area": "70",
+    "id": "olx:752458057",
+    "title": "Wynajm\u0119 d\u00f3\u0142 domu",
+    "location": "gda\u0144sk, kokoszki",
+    "url": "https://www.olx.pl/d/oferta/wynajme-dol-domu-CID3-IDOWeIh.html",
+    "price": 2500,
+    "area": "45",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/vpfz25bagcwj3-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/e0rrpixdk96q3-PL/image;s=1000x562",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/r7ltbxj39hnb-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/qqwp53cs7qxn1-PL/image;s=875x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/fc83ombjwq9k1-PL/image;s=771x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/jfc6gcpzr9h61-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/jv6u1jfqdxoq-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/9qyoeyraartt3-PL/image;s=525x700"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/2ho2kzg55p9i-PL/image;s=750x1000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/z9hnkauz8zip-PL/image;s=750x1000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/uttnfhojbz6i2-PL/image;s=750x1000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/3kvn4b9s9xtk3-PL/image;s=750x1000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/9yyna64bal0w-PL/image;s=750x1000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8cj22ruyruss3-PL/image;s=750x1000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/bcrqzpjltl2r1-PL/image;s=750x1000"
     ],
     "source": "olx",
-    "date": "2022-07-26T19:56:55+02:00",
+    "date": "2022-07-25T09:20:35+02:00",
     "is_house": true
   },
   {
-    "id": "olx:759447112",
-    "title": "DOM w zabudowie szeregowej do wynaj\u0119cia. REWA  GDYNIA",
-    "location": "suchy dw\u00f3r",
-    "url": "https://www.olx.pl/d/oferta/dom-w-zabudowie-szeregowej-do-wynajecia-rewa-gdynia-CID3-IDPoySY.html",
+    "id": "olx:534843429",
+    "title": "Wynajem domku domek na Kaszubach Kaszuby.",
+    "location": "gowidlino",
+    "url": "https://www.olx.pl/d/oferta/wynajem-domku-domek-na-kaszubach-kaszuby-CID3-IDAc9cW.html",
     "price": 800,
     "area": "110",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/t5li8o4q2vfh1-PL/image;s=2000x1600",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/urmj8p29ehir1-PL/image;s=2000x1600",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/33vss6nluo6a-PL/image;s=2000x1600",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/7q0tx9zsue3d1-PL/image;s=2000x1600",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/eirh2xu835q83-PL/image;s=3024x4032"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hp1jrrcq9myb3-PL/image;s=934x700;r=270",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/42q52fjrfset3-PL/image;s=934x700;r=270",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/cdj6297ujofq2-PL/image;s=934x700;r=270",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/0lzmqom7280l2-PL/image;s=934x700;r=270",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/2ghc4cn8udc63-PL/image;s=864x1152",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/bodrnzjdlcr41-PL/image;s=864x1152",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/83ti58lkwjbq2-PL/image;s=864x1152",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/gdmpifeqrulc-PL/image;s=864x1152"
     ],
     "source": "olx",
-    "date": "2022-07-26T19:24:16+02:00",
+    "date": "2022-07-25T23:12:13+02:00",
     "is_house": true
   },
   {
-    "id": "olx:655878497",
-    "title": "Domek Letniskowy Kaszuby wolny od 20 sierpnia",
-    "location": "gli\u015bno wielkie",
-    "url": "https://www.olx.pl/d/oferta/domek-letniskowy-kaszuby-wolny-od-20-sierpnia-CID3-IDInZXr.html",
-    "price": 2500,
-    "area": "100",
+    "id": "olx:679021052",
+    "title": "Cudowny, du\u017cy s\u0142oneczny dom w Sopocie z gara\u017cem i widokiem.",
+    "location": "sopot, g\u00f3rny sopot",
+    "url": "https://www.olx.pl/d/oferta/cudowny-duzy-sloneczny-dom-w-sopocie-z-garazem-i-widokiem-CID3-IDJX6os.html",
+    "price": 7900,
+    "area": "160",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/lxc8itlqdd1i1-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/r9hwtwddmj013-PL/image;s=952x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/9370a9mhzjc22-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/sj49ymnjypie-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/7w2n8fl7gzfk-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/b06vjpzgceoq3-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/i006fvpzsicm1-PL/image;s=525x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/jpv7xsbtib4h3-PL/image;s=525x700"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xh88y3eskvgk2-PL/image;s=1280x861",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/h2f99as8lsyq3-PL/image;s=1280x882",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/7pdulifvra6x-PL/image;s=1280x882",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/7ylpss0gsr3e2-PL/image;s=1024x680",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hevri2j7i6p71-PL/image;s=1280x848",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4fh8821vu6wu3-PL/image;s=1280x853",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/6czt2u6pxvvz-PL/image;s=1280x881",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/sw5hg5l3fhfy1-PL/image;s=512x768"
     ],
     "source": "olx",
-    "date": "2022-07-26T18:18:19+02:00",
+    "date": "2022-07-26T13:00:28+02:00",
     "is_house": true
   },
   {
@@ -10479,69 +10542,47 @@ olx_data=[
     "is_house": true
   },
   {
-    "id": "olx:769768667",
-    "title": "Domek letniskowy Kaszuby 250 z\u0142",
-    "location": "\u0142ubiana",
-    "url": "https://www.olx.pl/d/oferta/domek-letniskowy-kaszuby-250-zl-CID3-IDQ5RZF.html",
-    "price": 250,
+    "id": "olx:651840110",
+    "title": "Domek gospodarczy do wynaj\u0119cia 2800 ca\u0142kowity koszt wynajmu",
+    "location": "starogard gda\u0144ski",
+    "url": "https://www.olx.pl/d/oferta/domek-gospodarczy-do-wynajecia-2800-calkowity-koszt-wynajmu-CID3-IDI73oa.html",
+    "price": 2800,
     "area": "70",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/04plyu3tu2fz1-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/7tzfdg54kjyv3-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ylsbedp4wpff-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/h1w9ezn7o5wh2-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/q2undts0azur1-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/iqnqu05ti0iv-PL/image;s=2000x2667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/168yxscdxzx71-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/yidvnvye2yhi-PL/image;s=3024x4032"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vpfz25bagcwj3-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/e0rrpixdk96q3-PL/image;s=1000x562",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/r7ltbxj39hnb-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/qqwp53cs7qxn1-PL/image;s=875x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/fc83ombjwq9k1-PL/image;s=771x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jfc6gcpzr9h61-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jv6u1jfqdxoq-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/9qyoeyraartt3-PL/image;s=525x700"
     ],
     "source": "olx",
-    "date": "2022-07-18T20:58:35+02:00",
+    "date": "2022-07-26T19:56:55+02:00",
     "is_house": true
   },
   {
-    "id": "olx:770368247",
-    "title": "Dom letniskowy na Kaszubach TU\u017b NAD JEZIOREM",
-    "location": "go\u0142ubie",
-    "url": "https://www.olx.pl/d/oferta/dom-letniskowy-na-kaszubach-tuz-nad-jeziorem-CID3-IDQ8nYj.html",
-    "price": 490,
-    "area": "110",
+    "id": "olx:655878497",
+    "title": "Domek Letniskowy Kaszuby wolny od 20 sierpnia",
+    "location": "gli\u015bno wielkie",
+    "url": "https://www.olx.pl/d/oferta/domek-letniskowy-kaszuby-wolny-od-20-sierpnia-CID3-IDInZXr.html",
+    "price": 2500,
+    "area": "100",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/gd6et3bxapcs2-PL/image;s=1600x1071",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/um5nuj6h01gl1-PL/image;s=1600x1071",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/vj7qvp6rcr4a2-PL/image;s=1600x1069",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/soiwe3f2737x1-PL/image;s=1600x1071",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/a7a9s5sfvw1r2-PL/image;s=1200x839",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/5dutebepyh5i1-PL/image;s=1600x1059",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/5zo94vhazpry2-PL/image;s=1602x1070",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/q8gbe4add6g03-PL/image;s=1600x1101"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/lxc8itlqdd1i1-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/r9hwtwddmj013-PL/image;s=952x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/9370a9mhzjc22-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/sj49ymnjypie-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/7w2n8fl7gzfk-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/b06vjpzgceoq3-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/i006fvpzsicm1-PL/image;s=525x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jpv7xsbtib4h3-PL/image;s=525x700"
     ],
     "source": "olx",
-    "date": "2022-07-25T22:16:27+02:00",
-    "is_house": true
-  },
-  {
-    "id": "olx:736083280",
-    "title": "Domek na weekend, wakacje, Kaszuby",
-    "location": "za\u0142akowo",
-    "url": "https://www.olx.pl/d/oferta/domek-na-weekend-wakacje-kaszuby-CID3-IDNOvSY.html",
-    "price": 480,
-    "area": "80",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/w1zj5b6x9ebc-PL/image;s=3264x1836",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/uletecg3kj3q2-PL/image;s=3264x1836",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/lv3qnapbchb32-PL/image;s=3264x1836",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/a7kx7pkabw0c3-PL/image;s=3264x1836",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/c8po9ciay38b-PL/image;s=3264x1836",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/v4m5shoyj3pm2-PL/image;s=1836x3264",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/lfgyak9gihiv2-PL/image;s=3264x1836",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ieov5ytzmq0u3-PL/image;s=3264x1836"
-    ],
-    "source": "olx",
-    "date": "2022-07-26T17:16:20+02:00",
+    "date": "2022-07-26T18:18:19+02:00",
     "is_house": true
   },
   {
@@ -10667,28 +10708,6 @@ olx_data=[
     "is_house": true
   },
   {
-    "id": "olx:679021052",
-    "title": "Cudowny, du\u017cy s\u0142oneczny dom w Sopocie z gara\u017cem i widokiem.",
-    "location": "sopot, g\u00f3rny sopot",
-    "url": "https://www.olx.pl/d/oferta/cudowny-duzy-sloneczny-dom-w-sopocie-z-garazem-i-widokiem-CID3-IDJX6os.html",
-    "price": 7900,
-    "area": "160",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/xh88y3eskvgk2-PL/image;s=1280x861",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/h2f99as8lsyq3-PL/image;s=1280x882",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/7pdulifvra6x-PL/image;s=1280x882",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/7ylpss0gsr3e2-PL/image;s=1024x680",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/hevri2j7i6p71-PL/image;s=1280x848",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/4fh8821vu6wu3-PL/image;s=1280x853",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/6czt2u6pxvvz-PL/image;s=1280x881",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/sw5hg5l3fhfy1-PL/image;s=512x768"
-    ],
-    "source": "olx",
-    "date": "2022-07-26T13:00:28+02:00",
-    "is_house": true
-  },
-  {
     "id": "olx:771154991",
     "title": "Wynajm\u0119 dom letniskowy",
     "location": "lubiatowo",
@@ -10708,27 +10727,6 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-07-26T12:10:37+02:00",
-    "is_house": true
-  },
-  {
-    "id": "olx:765973431",
-    "title": "Niedawno wyremontowany dom na wynajem krotkoterminowy",
-    "location": "nowa kiszewa",
-    "url": "https://www.olx.pl/d/oferta/niedawno-wyremontowany-dom-na-wynajem-krotkoterminowy-CID3-IDPPVGb.html",
-    "price": 450,
-    "area": "400",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/h288fo03ukwf1-PL/image;s=2000x1500",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/x9u5x5cgvkmt1-PL/image;s=2048x1536",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/n7hzgvewn67v2-PL/image;s=2000x1500",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/8l9pybj5h1pd-PL/image;s=1536x2048",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/gu89cag3q3l33-PL/image;s=1954x1465",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/xqhpiyogvlf52-PL/image;s=3264x2448",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/vgki62pawimq1-PL/image;s=2048x1536"
-    ],
-    "source": "olx",
-    "date": "2022-07-26T11:52:24+02:00",
     "is_house": true
   },
   {
@@ -10766,28 +10764,6 @@ olx_data=[
     "is_house": true
   },
   {
-    "id": "olx:758548452",
-    "title": "Domki nad morzem (Ruska Bania ROWERY) WOLNE 31.07, 21.08-26.08",
-    "location": "\u0142eba",
-    "url": "https://www.olx.pl/d/oferta/domki-nad-morzem-ruska-bania-rowery-wolne-31-07-21-08-26-08-CID3-IDPkN6s.html",
-    "price": 250,
-    "area": "50",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ame6za82q3hc2-PL/image;s=3000x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/2rxwl6j4gqc23-PL/image;s=3000x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/xnj24zalpvmy1-PL/image;s=3000x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/a7mlqnrtl1hf-PL/image;s=3000x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/8wopr3jsqxs42-PL/image;s=3000x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/sg7rfi4nr32f2-PL/image;s=3000x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/mf5y0ipny5f22-PL/image;s=2000x1333",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/vsobwfp003sx-PL/image;s=3000x2000"
-    ],
-    "source": "olx",
-    "date": "2022-07-27T08:34:32+02:00",
-    "is_house": true
-  },
-  {
     "id": "olx:770861221",
     "title": "domek ca\u0142oroczny wynajm\u0119 rezerwacja do 03.08.2022",
     "location": "pomlewo",
@@ -10810,25 +10786,46 @@ olx_data=[
     "is_house": true
   },
   {
-    "id": "olx:639563703",
-    "title": "Dom 100m2 do wynajecia",
-    "location": "swaro\u017cyn",
-    "url": "https://www.olx.pl/d/oferta/dom-100m2-do-wynajecia-CID3-IDHhxJB.html",
-    "price": 2200,
-    "area": "100",
+    "id": "olx:736083280",
+    "title": "Domek na weekend, wakacje, Kaszuby",
+    "location": "za\u0142akowo",
+    "url": "https://www.olx.pl/d/oferta/domek-na-weekend-wakacje-kaszuby-CID3-IDNOvSY.html",
+    "price": 480,
+    "area": "80",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/8hlyji40yjx31-PL/image;s=525x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/1l2v7eoxx0wz-PL/image;s=341x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/qpudpnafd8mk-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/up6ujz6lre113-PL/image;s=525x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/eb0zuqip75cu3-PL/image;s=525x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/hp4u9u0oijx52-PL/image;s=525x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/4q6hiutz4py01-PL/image;s=525x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/io107vx08rol-PL/image;s=525x700"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/w1zj5b6x9ebc-PL/image;s=3264x1836",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/uletecg3kj3q2-PL/image;s=3264x1836",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/lv3qnapbchb32-PL/image;s=3264x1836",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/a7kx7pkabw0c3-PL/image;s=3264x1836",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/c8po9ciay38b-PL/image;s=3264x1836",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/v4m5shoyj3pm2-PL/image;s=1836x3264",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/lfgyak9gihiv2-PL/image;s=3264x1836",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ieov5ytzmq0u3-PL/image;s=3264x1836"
     ],
     "source": "olx",
-    "date": "2022-07-25T14:40:45+02:00",
+    "date": "2022-07-26T17:16:20+02:00",
+    "is_house": true
+  },
+  {
+    "id": "olx:765973431",
+    "title": "Niedawno wyremontowany dom na wynajem krotkoterminowy",
+    "location": "nowa kiszewa",
+    "url": "https://www.olx.pl/d/oferta/niedawno-wyremontowany-dom-na-wynajem-krotkoterminowy-CID3-IDPPVGb.html",
+    "price": 450,
+    "area": "400",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/h288fo03ukwf1-PL/image;s=2000x1500",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/x9u5x5cgvkmt1-PL/image;s=2048x1536",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/n7hzgvewn67v2-PL/image;s=2000x1500",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8l9pybj5h1pd-PL/image;s=1536x2048",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/gu89cag3q3l33-PL/image;s=1954x1465",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xqhpiyogvlf52-PL/image;s=3264x2448",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vgki62pawimq1-PL/image;s=2048x1536"
+    ],
+    "source": "olx",
+    "date": "2022-07-26T11:52:24+02:00",
     "is_house": true
   },
   {
@@ -10875,6 +10872,28 @@ olx_data=[
     "is_house": true
   },
   {
+    "id": "olx:770368247",
+    "title": "Dom letniskowy na Kaszubach TU\u017b NAD JEZIOREM",
+    "location": "go\u0142ubie",
+    "url": "https://www.olx.pl/d/oferta/dom-letniskowy-na-kaszubach-tuz-nad-jeziorem-CID3-IDQ8nYj.html",
+    "price": 490,
+    "area": "110",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/gd6et3bxapcs2-PL/image;s=1600x1071",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/um5nuj6h01gl1-PL/image;s=1600x1071",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vj7qvp6rcr4a2-PL/image;s=1600x1069",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/soiwe3f2737x1-PL/image;s=1600x1071",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/a7a9s5sfvw1r2-PL/image;s=1200x839",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/5dutebepyh5i1-PL/image;s=1600x1059",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/5zo94vhazpry2-PL/image;s=1602x1070",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/q8gbe4add6g03-PL/image;s=1600x1101"
+    ],
+    "source": "olx",
+    "date": "2022-07-25T22:16:27+02:00",
+    "is_house": true
+  },
+  {
     "id": "olx:688255220",
     "title": "Apartament nad morzem Ostrowo",
     "location": "ostrowo",
@@ -10909,6 +10928,28 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-07-25T17:33:43+02:00",
+    "is_house": true
+  },
+  {
+    "id": "olx:686020103",
+    "title": "Dom z bali nad jeziorem - Kaszuby-wolne terminy",
+    "location": "brze\u017ano szlacheckie",
+    "url": "https://www.olx.pl/d/oferta/dom-z-bali-nad-jeziorem-kaszuby-wolne-terminy-CID3-IDKqtan.html",
+    "price": 500,
+    "area": "120",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/p4ph3p13h3sf1-PL/image;s=2800x1575",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/o63dgt3hhpin1-PL/image;s=4160x2340",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/0xdh5kw1kwgl1-PL/image;s=4160x2340",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/qrdthc6zks9m3-PL/image;s=2340x4160",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/t2tp95nfsp4n1-PL/image;s=2340x4160",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/lq5lzl4mf96h1-PL/image;s=2340x4160",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/yoc8c0cpfwfo-PL/image;s=4160x2340",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tx0z1mtdzsfc1-PL/image;s=1440x1920"
+    ],
+    "source": "olx",
+    "date": "2022-07-25T15:20:37+02:00",
     "is_house": true
   },
   {
@@ -11002,6 +11043,72 @@ olx_data=[
     "is_house": true
   },
   {
+    "id": "olx:769768667",
+    "title": "Domek letniskowy Kaszuby 250 z\u0142",
+    "location": "\u0142ubiana",
+    "url": "https://www.olx.pl/d/oferta/domek-letniskowy-kaszuby-250-zl-CID3-IDQ5RZF.html",
+    "price": 250,
+    "area": "70",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/04plyu3tu2fz1-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/7tzfdg54kjyv3-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ylsbedp4wpff-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/h1w9ezn7o5wh2-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/q2undts0azur1-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/iqnqu05ti0iv-PL/image;s=2000x2667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/168yxscdxzx71-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/yidvnvye2yhi-PL/image;s=3024x4032"
+    ],
+    "source": "olx",
+    "date": "2022-07-18T20:58:35+02:00",
+    "is_house": true
+  },
+  {
+    "id": "olx:762313736",
+    "title": "Domki w lesie Bo\u017cepole Kr\u00f3lewskie",
+    "location": "bo\u017cepole kr\u00f3lewskie",
+    "url": "https://www.olx.pl/d/oferta/domki-w-lesie-bozepole-krolewskie-CID3-IDPAACQ.html",
+    "price": 500,
+    "area": "70",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xnm2ta0pjy6m2-PL/image;s=2048x1366",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/3dqdyrkerrbf-PL/image;s=1366x2048",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/qf4xx3xuwg4y-PL/image;s=2048x1366",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tr8q6xye4uqs2-PL/image;s=2048x1366",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/u28e5q446dtp-PL/image;s=1366x2048",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/7fuln1swl8jf3-PL/image;s=1366x2048",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/1fo21f0goaz9-PL/image;s=1366x2048",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/gjjuf18yteac2-PL/image;s=1024x576"
+    ],
+    "source": "olx",
+    "date": "2022-07-19T18:20:51+02:00",
+    "is_house": true
+  },
+  {
+    "id": "olx:639563703",
+    "title": "Dom 100m2 do wynajecia",
+    "location": "swaro\u017cyn",
+    "url": "https://www.olx.pl/d/oferta/dom-100m2-do-wynajecia-CID3-IDHhxJB.html",
+    "price": 2200,
+    "area": "100",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8hlyji40yjx31-PL/image;s=525x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/1l2v7eoxx0wz-PL/image;s=341x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/qpudpnafd8mk-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/up6ujz6lre113-PL/image;s=525x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/eb0zuqip75cu3-PL/image;s=525x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hp4u9u0oijx52-PL/image;s=525x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4q6hiutz4py01-PL/image;s=525x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/io107vx08rol-PL/image;s=525x700"
+    ],
+    "source": "olx",
+    "date": "2022-07-25T14:40:45+02:00",
+    "is_house": true
+  },
+  {
     "id": "olx:758603362",
     "title": "Domek balia ogr\u00f3d taras",
     "location": "godziszewo",
@@ -11042,69 +11149,6 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-07-25T08:34:56+02:00",
-    "is_house": true
-  },
-  {
-    "id": "olx:752458057",
-    "title": "Wynajm\u0119 d\u00f3\u0142 domu",
-    "location": "gda\u0144sk, kokoszki",
-    "url": "https://www.olx.pl/d/oferta/wynajme-dol-domu-CID3-IDOWeIh.html",
-    "price": 2500,
-    "area": "45",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/2ho2kzg55p9i-PL/image;s=750x1000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/z9hnkauz8zip-PL/image;s=750x1000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/uttnfhojbz6i2-PL/image;s=750x1000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/3kvn4b9s9xtk3-PL/image;s=750x1000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/9yyna64bal0w-PL/image;s=750x1000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/8cj22ruyruss3-PL/image;s=750x1000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/bcrqzpjltl2r1-PL/image;s=750x1000"
-    ],
-    "source": "olx",
-    "date": "2022-07-25T09:20:35+02:00",
-    "is_house": true
-  },
-  {
-    "id": "olx:766974791",
-    "title": "Domki nad morzem z \u0142azienk\u0105, aneksem, tv, wi-fi WOLNE TERMINY",
-    "location": "\u0142eba",
-    "url": "https://www.olx.pl/d/oferta/domki-nad-morzem-z-lazienka-aneksem-tv-wi-fi-wolne-terminy-CID3-IDPU9b9.html",
-    "price": 250,
-    "area": "70",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/aasilji4ggv3-PL/image;s=2000x1334",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/n7mtjkmr2u2z2-PL/image;s=3000x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/roa8wvrmkktp3-PL/image;s=3000x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/xp33moesspfa2-PL/image;s=2000x1334",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/grurmvskon1t-PL/image;s=2000x1334",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/dsr3umj99ck53-PL/image;s=2000x1334"
-    ],
-    "source": "olx",
-    "date": "2022-07-27T08:35:01+02:00",
-    "is_house": true
-  },
-  {
-    "id": "olx:534843429",
-    "title": "Wynajem domku domek na Kaszubach Kaszuby.",
-    "location": "gowidlino",
-    "url": "https://www.olx.pl/d/oferta/wynajem-domku-domek-na-kaszubach-kaszuby-CID3-IDAc9cW.html",
-    "price": 800,
-    "area": "110",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/hp1jrrcq9myb3-PL/image;s=934x700;r=270",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/42q52fjrfset3-PL/image;s=934x700;r=270",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/cdj6297ujofq2-PL/image;s=934x700;r=270",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/0lzmqom7280l2-PL/image;s=934x700;r=270",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/2ghc4cn8udc63-PL/image;s=864x1152",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/bodrnzjdlcr41-PL/image;s=864x1152",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/83ti58lkwjbq2-PL/image;s=864x1152",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/gdmpifeqrulc-PL/image;s=864x1152"
-    ],
-    "source": "olx",
-    "date": "2022-07-25T23:12:13+02:00",
     "is_house": true
   },
   {
@@ -11757,28 +11801,6 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-07-20T09:39:03+02:00",
-    "is_house": true
-  },
-  {
-    "id": "olx:762313736",
-    "title": "Domki w lesie Bo\u017cepole Kr\u00f3lewskie",
-    "location": "bo\u017cepole kr\u00f3lewskie",
-    "url": "https://www.olx.pl/d/oferta/domki-w-lesie-bozepole-krolewskie-CID3-IDPAACQ.html",
-    "price": 500,
-    "area": "70",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/xnm2ta0pjy6m2-PL/image;s=2048x1366",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/3dqdyrkerrbf-PL/image;s=1366x2048",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/qf4xx3xuwg4y-PL/image;s=2048x1366",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/tr8q6xye4uqs2-PL/image;s=2048x1366",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/u28e5q446dtp-PL/image;s=1366x2048",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/7fuln1swl8jf3-PL/image;s=1366x2048",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/1fo21f0goaz9-PL/image;s=1366x2048",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/gjjuf18yteac2-PL/image;s=1024x576"
-    ],
-    "source": "olx",
-    "date": "2022-07-19T18:20:51+02:00",
     "is_house": true
   },
   {

@@ -46,8 +46,11 @@ class Main {
       let data = window.localStorage.getItem(item.id);
       if (data) {
         item.stored = JSON.parse(data);
+        if (!("desc" in item.stored)) {
+          item.stored.desc = "";
+        }
       } else {
-        item.stored = {delted:false, stared:false};
+        item.stored = {delted:false, stared:false, desc: ""};
       }
     }
 
@@ -97,6 +100,12 @@ class Main {
   show_hidden_clicked() {
     this.filter_data.show_hidden = !this.filter_data.show_hidden;
     this.filter_changed();
+  }
+
+  description_changed(idx) {
+    let item = this.filtered_data[idx];
+    item.stored.desc = $("#edit_" + idx).val();
+    this.save_item_data(item);
   }
 
   star_clicked(idx) {

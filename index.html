@@ -10,6 +10,9 @@
 
 <script id="entry-template" type="text/x-handlebars-template">
   <div>[{{item.source}}]<a href={{item.url}} target="_blank"> {{item.title}}</a></div>
+  <div>
+  <input type="text" value="{{item.stored.desc}}" id="edit_{{item_idx}}" size="80" oninput="main.description_changed({{item_idx}});">
+  </div>
   <div>Отметить<input type="checkbox" {{#if item.stored.stared}}checked{{/if}} onclick="main.star_clicked({{item_idx}})">
    Спрятать<input type="checkbox" {{#if item.stored.deleted}}checked{{/if}} onclick="main.hide_clicked({{item_idx}})"></div>
   <div class="container">

@@ -156,10 +156,9 @@ class Main {
     this.render_header();
   }
 
-  filter() {
+  is_valid(x) {
     let self = this;
-    this.filtered_data = this.raw_data.filter(function(x) {
-      if (self.filter_data.loc.length != 0 && x.location.search(self.filter_data.loc) == -1 ){
+    if (self.filter_data.loc.length != 0 && x.location.search(self.filter_data.loc) == -1 ){
         return false;
       }
       if (x.rooms == "2" || x.rooms == "1") {
@@ -192,8 +191,13 @@ class Main {
       if (!self.filter_data.show_hidden && x.stored.deleted) {
         return false;
       }
-
       return x.price >= self.filter_data.min_price && x.price <= self.filter_data.max_price;
+  }
+
+  filter() {
+    let self = this;
+    this.filtered_data = this.raw_data.filter(function(x) {
+      return self.is_valid(x);
     });
 
     this.filtered_data.sort(function(a, b) {

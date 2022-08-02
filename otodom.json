@@ -1,5 +1,85 @@
 otodom_data=[
   {
+    "id": "otodom:63361518",
+    "title": "Kawalerka Gda\u0144sk Przymorze",
+    "location": "gda\u0144sk, przymorze",
+    "url": "https://www.otodom.pl/pl/oferta/kawalerka-gdansk-przymorze-ID4hRdY",
+    "price": 2000,
+    "area": 29,
+    "rooms": "1",
+    "images": [
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd2a2gzaWlnZGFzeDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yXTN9fhtjVshJ_VsnlVk7pSA-JsUT4QU2poxnpR3WdE/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndpdGw5eHRjYjV6MjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wMJJZ-I4mEWslhuVUva5Qw0t_PtUSmV-fXgcY4_V1Aw/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5eTV0Y3o3MmcydTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Ae9KlzGWtv_H9ACbPG_tB-sdk2n8z-8COIXYzHf3-Ks/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5yYXYyODgybmN2NTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cGR08djrgv2KME2jHAIFsFZJGZDEtJMojUk2_BJy69U/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhoM2s0N2tsZjU4ZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.6IgS6tGmC4ETy9uV-wNSuh3ETBiBZ0W4WDjYFY4_m2M/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink0NW91MDkyNXdiMDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jbryKZuXCSy_xqOuLYedZJzSsQDKIbHOKJuRWZxGH2w/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imk1MXZsdDJlc2thbDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kz6uECdsbfszVspeSdN3v08vY3FCxI-HcqdGNd8lIzg/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJ0dHRyZTlrNm9wYjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Hf2F8JIf7MlsZIvn22gBFqgMdHTiKkc7lUO59gCO-8k/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImEzbjIzYWswbmt2NzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GxKhZ7sKFeh0r7t2g_20TGeRT-yClao7x_J1ld6Zq_w/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndubDM2YjlhanZtOC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.F7Dq1h19fU7ufqr_bOQdUF0lRs8JKYUZO_JwrhzeoFQ/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE5ZWcwZmdvanpkaDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.s_JW47YMM3sPmFa4Oo-3i3XMgZw8QpMPi0KhGvEI0-o/image;s=655x491;q=80"
+    ],
+    "source": "otodom",
+    "date": "2022-08-02 12:21:12",
+    "is_house": false
+  },
+  {
+    "id": "otodom:63361516",
+    "title": "Kawalerka Gdynia Chylonia",
+    "location": "gdynia, chylonia",
+    "url": "https://www.otodom.pl/pl/oferta/kawalerka-gdynia-chylonia-ID4hRdV",
+    "price": 1500,
+    "area": 19,
+    "rooms": "1",
+    "images": [
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZjcW10Z292NGV0aTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VpUgdcLOjoJMFtlFQ5i0v8O__RvDnsoT9x5Z4qAz46o/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjltbW5wbHNlYmkyNzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hzBI28UDgeMw9yYJ-E4Ejm9O8wF5NQwa_rItbS3YmjQ/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJrcDF6eDI3bWJ1ejEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6xLrXpoUhdz79iiMwd4ZKG1QerEf2pYzRE2OfZ79VPc/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im4wMG9vYWdxaHprMTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kg6VsB3KrCJpnfLGZbuUo7ey0rULvsCQeg6KWkqut08/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVwc2J0Ynh0bG14bS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.5w_30jCTxs6e4oniaAyGORTbl9tv9wkAV_Is-Wq8DAM/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx2djdjdzJ0YzIyZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1DM3ZfwnTFC7MhUCEQVEaH-tvH5_kXlaFsRO-jsn1Iw/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV6N2F4ZWVuMWYxbzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RB2ybJAFdXjYZSwuR8OZs6Uaf9rFXeaX3LhAhq2ZGaw/image;s=655x491;q=80"
+    ],
+    "source": "otodom",
+    "date": "2022-08-02 12:20:59",
+    "is_house": false
+  },
+  {
+    "id": "otodom:63361360",
+    "title": "Mieszkanie o wysokim standardzie na 13 pi\u0119trze!",
+    "location": "reda, marynarska",
+    "url": "https://www.otodom.pl/pl/oferta/mieszkanie-o-wysokim-standardzie-na-13-pietrze-ID4hRbq",
+    "price": 3100,
+    "area": 46,
+    "rooms": "2",
+    "images": [
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA0dHc0anV2djI1eTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wneMVyUevclZMOv4WoG8eV9NwRyDbU84o8aecnqO_8c/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZ0b2I0ZzYyanBjcTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.931qCU9zVYXBrSc0dJwsgN05SCzBPGep-oNyhwwMQlI/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJvbDZxOXI0c2djZTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8wEevzKruVvYd6K0Ej8AhZ6yLakk4mLmuqMJ232xAqc/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjkwZzJsY3ppODJ3MTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._qyIOdNUDEsCqsPeSWxO9P8t95d8AN71k_hIazk1hMg/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ2a3pnZ2pobjU0NzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JLmlUoyGiWzIRDyDt2Rd6467zA5vp00RTcBXyO3QT_E/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNxam44aTc1ODBkOTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kmpLCl2AL-TUuP4ofLeiVv9dqUBtGRjQqHMLaQRXwnk/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZvYjBvMGszbm94ZzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.OGw8iUxl7K0BCv3MCW7LGU3cMoROxYsLmcnFcJ9AAXM/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR6Znp6NjhldjcxZy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.jGlhjno6SBfaaBxFDho0QZUviPNePJGnxn4tXKg5Z-w/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjI1YzZudWd3YXVrbzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZAHXJcENOk4_oRFBtCj06gvUpwvfHrvrdciTdrpaecY/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImE3YXV4YWY4bDVnMjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gi5HYRoXSXrK_tSaPFrTDHoNWcE8wPUX_nzqOci5Xsc/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inl5dGlzMmFsdXNkZzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Tkf6gQdJgmOoRjEwtavom5ueEEtmV275AejSqnM6C0s/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtmNWVjdzFyaWJvNzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5UztNpfbRJ3ZwS-RTD7q79bYWUA_ARrVoEJJ1vyEMS4/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpiMHhqZjlxM3hydS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1ydIGibmzJWyio8YxWEhIqcnFzMPgbO2uybErddpIEE/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE4MHNtOWhkZnNwYTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Is7o8B3PusEm6ZSZU7dQwPjiGBKCjDx1PQLKQHwPheU/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk3b3phNmNpdHFyei1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.4wNpyxFs3pyMccMryJaqkyXk14LTwhUhORXg84J-BRI/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRkejNucmtrMHd2ZTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rtxfxYhRLhdgFj_xQWM9y8LZvLVA1jwUFE2_4ydaZJ8/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxvZW9xa3N1djl0ZzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.jJlL12LoTqPgfpCZfmSl6zmC-TIZZsugChhzi29lHp4/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlseG9obXZoY2JsdTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.9ATZafJoTVsDzF8AeHrVc9mKbEfgrriDG6Xyk4tEI9k/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVrOHgybDhzbGJiYzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ES6AnglkJ0B2JGiqzKV6EnPvvUYO9rjtakM8mcJsqu8/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBybm43OHcwNXp3MjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.O6mpD1mpVivU1AXjEdrxh_MA6aMopXjnXPYPxyG3aGM/image;s=655x491;q=80"
+    ],
+    "source": "otodom",
+    "date": "2022-08-02 11:53:16",
+    "is_house": false
+  },
+  {
     "id": "otodom:63296219",
     "title": "Mieszkanie 2 pokojowe w pe\u0142ni wyposa\u017cone 47m2",
     "location": "gda\u0144sk, jasie\u0144, ul. turzycowa",
@@ -457,15 +537,15 @@ otodom_data=[
     "area": 52,
     "rooms": "2",
     "images": [
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhpYnZlYzYwMG9kcjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xt8q5EZH60EFdslX8dJfkKe7a6IPeKgo0itYHeQJC14/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InYyNDM0ZDZqeW8waS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.aUu1Bd-mbmsOMk93tExK0byF3DPGaPLMYyhWliXlw3g/image;s=655x491;q=80",
       "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQ1ZHhpczR6dnRtNzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bDW2tmaWSS-Cp5xhumMLwCB7IyFHjrEQwywitxddBhk/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InYyNDM0ZDZqeW8waS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.aUu1Bd-mbmsOMk93tExK0byF3DPGaPLMYyhWliXlw3g/image;s=655x491;q=80",
       "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ1cDJ3MTF4YXd4cTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HryKw_pEtnC8NaagiBGINZjZBVx6tVPyXg8fv_Dg88o/image;s=655x491;q=80",
       "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1xaHA4bHlneHN5dTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CEFYPJE8J0TRYhEOjYY_qRGCSfPoCKVzXdMR8C35Fzk/image;s=655x491;q=80",
       "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNxdno1cWNwb3Q3ZDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.yop3YbHffBkOwPEjH2Fns4nv-Z8iiM8LXLVrj4txgzI/image;s=655x491;q=80",
       "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjgzZjd3b3hqdTJybDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Vp3gi39ooYy_R6wqAIwWSHPIV056YtzCUMLPmvGOltM/image;s=655x491;q=80",
       "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imc3b2hoOGlheXNkMzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tScCdt3s_UBbnebZgrCefvucBuZlTuQCm9vZIgrdS1k/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlkeG1wZmIydHdyNzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vZAeZ1NK5iTtChKH4T_ZxMpFhFf0ug31VpCJ5GRnM0k/image;s=655x491;q=80"
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlkeG1wZmIydHdyNzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vZAeZ1NK5iTtChKH4T_ZxMpFhFf0ug31VpCJ5GRnM0k/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhpYnZlYzYwMG9kcjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xt8q5EZH60EFdslX8dJfkKe7a6IPeKgo0itYHeQJC14/image;s=655x491;q=80"
     ],
     "source": "otodom",
     "date": "2022-08-02 09:06:55",
@@ -854,7 +934,7 @@ otodom_data=[
   {
     "id": "otodom:63360075",
     "title": "Mieszkanie dwupokojowe, umeblowane. I pi\u0119tro",
-    "location": "nowy dw\u00f3r gda\u0144ski, os. kard. stefana wyszy\u0144skiego",
+    "location": "nowy dw\u00f3r gda\u0144ski, nowodworski, os. kard. stefana wyszy\u0144skiego",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-dwupokojowe-umeblowane-i-pietro-ID4hQQH",
     "price": 1500,
     "area": 52,
@@ -1006,7 +1086,7 @@ otodom_data=[
   {
     "id": "otodom:63003481",
     "title": "2 pokoje, Reda, BEZCZYNSZOWE",
-    "location": "reda, wejherowski, ul. pucka",
+    "location": "reda, ul. pucka",
     "url": "https://www.otodom.pl/pl/oferta/2-pokoje-reda-bezczynszowe-ID4gm5b",
     "price": 2050,
     "area": 38,
@@ -1165,7 +1245,7 @@ otodom_data=[
   {
     "id": "otodom:63359388",
     "title": "3 pokoje pod biura!",
-    "location": "wejherowo",
+    "location": "wejherowo, wejherowski",
     "url": "https://www.otodom.pl/pl/oferta/3-pokoje-pod-biura-ID4hQFC",
     "price": 1200,
     "area": 58.91,
@@ -1251,7 +1331,7 @@ otodom_data=[
   {
     "id": "otodom:63359182",
     "title": "Przytulne mieszkanie po\u0142o\u017cone w L\u0119borku\u00a0",
-    "location": "l\u0119bork, nadmorska",
+    "location": "l\u0119bork, nadmorska, l\u0119borski",
     "url": "https://www.otodom.pl/pl/oferta/przytulne-mieszkanie-polozone-w-leborku-ID4hQCi",
     "price": 1500,
     "area": 43.26,
@@ -2278,15 +2358,16 @@ otodom_data=[
     "area": 30,
     "rooms": "1",
     "images": [
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImptbWJuaXFmaXV0ZjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pYnLkvEmZs4XkTwCHwB2h0QsZGjFQiNSJrquP1fRXd8/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imk2Y2d5dGpodWg0MTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.u6ihaJVUBbcKeQ5WFT7jGX4xgDeOvx4_3K8Ou7Nbzd8/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2OGZoOWNvcDFteDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.q4pcar9wZjmPKQYqWSjwAopnBVNF4SxJ1wqLbh47rH8/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQ0N2o1aHFxOWdkMDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zNE9WD7LIBWCDBYfD3iWd7kMvGM77MMqF6uo8AixjKs/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVjdXE2b2wyZTBrZDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1lsuCpvVXfxiZaURxW4w6OOo9xi1KbJnpBwqxYSNT-Y/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlndXQwcGJsMTg4OS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.pt_lFhceajO1GnXaqDtIXUzRYGPjDjlWZJqk-gvrrME/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhrb2IwNTA3cG10ODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Mfi1JAw62CEGky-5JXa0ZGYiRuj69wkbP6eoKPTCQbY/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjR1cmJnOTJ5a3I2ZDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.d5HGkqGiRTMHLDN12Tt7JXQt5bwx_bWo7kPFgxgUpVw/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtiNzQ0djIzd3F6MzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ML8bJkZFD2EvdjWkibi2EwIIAEJvvu0utguPVPOL4gU/image;s=655x491;q=80"
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhrNHJnbW1pbzY3dDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4pV_tAujKaRgPyA6QbgS-1e1OqsCWZTdKx5N-U99rxQ/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhhaTAybDh5eWVvYjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CFNRQPyrBFoAoIjnMpdXCnouwxC0WsAUu0moy0l82b4/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImExcXQ3cW83OXowbTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5RmlZBxKu8Os9DXXshIj_iFcfdbwUTX4Q9Yeo7oPGkE/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFnZnI5NmFtZDFsNzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZVEkmrse0mpU9fjpqITZ6O_mD6yue04c9J_LqfHAkag/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImtvZzZsbmVwYXNybTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rjxOM0qw7ZVa7duvhv4K0QToBjSe4aDGR07o8ifnsZ4/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd3YnNkN2tqYWVuei1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.cgxKHJ_WFkzbINDzDsBXNuBwI2kFEupPnN1EK21Xh4o/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZwZXppNHptcmxnYjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.S8mLhgi_qhnj5SR2LegrhORg-RCEWqQnyYuaOyo1qa0/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjI4aTJ0N2VqczRlYy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.qz8swMQd9TnRPAApqoBZtDmQntrQmmF6VLxoR2yymHc/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink3dmFzbDVxb29qdzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uD26B-Ud1wGWCsPimep1aD5FHT0jjYMEod4txbeg0W0/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU3cHUyejBvbWtjajMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xMa7jWHfBzkRqJd_HLQsvKBzIhQn0TKlwd_IqE4LRsQ/image;s=655x491;q=80"
     ],
     "source": "otodom",
     "date": "2022-08-01 09:51:29",
@@ -2780,7 +2861,7 @@ otodom_data=[
   {
     "id": "otodom:63355605",
     "title": "Mieszkanie na wynajem w centrum Cz\u0142uchowa",
-    "location": "cz\u0142uch\u00f3w, ul. \u017c\u00f3\u0142kiewskiego",
+    "location": "cz\u0142uch\u00f3w, ul. \u017c\u00f3\u0142kiewskiego, cz\u0142uchowski",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-na-wynajem-w-centrum-czluchowa-ID4hPGB",
     "price": 1100,
     "area": 44.94,
@@ -2952,9 +3033,9 @@ otodom_data=[
   },
   {
     "id": "otodom:63277364",
-    "title": "Kawalerka, pets friendly, bezpo\u015brednio",
+    "title": "Kawalerka, pets friendly, bezpo\u015brednio Przymorze",
     "location": "gda\u0144sk, przymorze, ul. ko\u0142obrzeska",
-    "url": "https://www.otodom.pl/pl/oferta/kawalerka-pets-friendly-bezposrednio-ID4hwkE",
+    "url": "https://www.otodom.pl/pl/oferta/kawalerka-pets-friendly-bezposrednio-przymorze-ID4hwkE",
     "price": 2450,
     "area": 23,
     "rooms": "1",
@@ -3236,7 +3317,7 @@ otodom_data=[
   {
     "id": "otodom:48726414",
     "title": "Mieszkanie do wynaj\u0119cia bez czynszowe 52 m2",
-    "location": "starogard gda\u0144ski, ul. zachodnia 1",
+    "location": "starogard gda\u0144ski, ul. zachodnia 1, starogardzki",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-do-wynajecia-bez-czynszowe-52-m2-ID3irXU",
     "price": 1550,
     "area": 52,
@@ -3414,7 +3495,7 @@ otodom_data=[
   {
     "id": "otodom:63254780",
     "title": "Mieszkanie, nocleg na Wakacje okolice GDA\u0143SK",
-    "location": "ul. hieronima derdowskiego, przodkowo",
+    "location": "kartuski, ul. hieronima derdowskiego, przodkowo",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-nocleg-na-wakacje-okolice-gdansk-ID4hpso",
     "price": 1500,
     "area": 55,
@@ -4380,7 +4461,7 @@ otodom_data=[
   {
     "id": "otodom:63293254",
     "title": "3 pokojowe mieszkanie w centrum Chojnic",
-    "location": "chojnice",
+    "location": "chojnice, chojnicki",
     "url": "https://www.otodom.pl/pl/oferta/3-pokojowe-mieszkanie-w-centrum-chojnic-ID4hzsV",
     "price": 1800,
     "area": 86,
@@ -4970,7 +5051,7 @@ otodom_data=[
   {
     "id": "otodom:63290689",
     "title": "Mieszkanie apartament w centrum L\u0119borka",
-    "location": "l\u0119bork, l\u0119borski, ul. franciszka\u0144ska",
+    "location": "l\u0119bork, ul. franciszka\u0144ska",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-apartament-w-centrum-leborka-ID4hyNz",
     "price": 2300,
     "area": 72.85,
@@ -5096,7 +5177,7 @@ otodom_data=[
   {
     "id": "otodom:63352953",
     "title": "Pi\u0119kne dwa pokoje na nowym osiedlu dla pary",
-    "location": "tczew, tczewskich saper\u00f3w",
+    "location": "tczew, tczewski, tczewskich saper\u00f3w",
     "url": "https://www.otodom.pl/pl/oferta/piekne-dwa-pokoje-na-nowym-osiedlu-dla-pary-ID4hOZP",
     "price": 1600,
     "area": 30,
@@ -6246,7 +6327,7 @@ otodom_data=[
   {
     "id": "otodom:63350663",
     "title": "Zak\u0105tek Juszkowo, Wyposa\u017cone - Najem Okazjonalny",
-    "location": "gda\u0144ski, juszkowo, zak\u0105tek",
+    "location": "juszkowo, zak\u0105tek",
     "url": "https://www.otodom.pl/pl/oferta/zakatek-juszkowo-wyposazone-najem-okazjonalny-ID4hOoT",
     "price": 1800,
     "area": 40.7,
@@ -7283,25 +7364,6 @@ otodom_data=[
     "is_house": false
   },
   {
-    "id": "otodom:59549490",
-    "title": "Mieszkanie w Gda\u0144sku - Wrzeszczu",
-    "location": "gda\u0144sk, wrzeszcz, do studzienki 63",
-    "url": "https://www.otodom.pl/pl/oferta/mieszkanie-w-gdansku-wrzeszczu-ID41RxE",
-    "price": 2800,
-    "area": 29,
-    "rooms": "2",
-    "images": [
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imhua25pZDZsbnZlMjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CrAJX0HtAkhgteuh4M9RGk0Lv1MKOAy0siC10BqeQLw/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdpNXI0OWwyNDV0aS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.MpUBTgS8dgnJBT-0qNsaWWBLgDzRSKox_R6SdsX1PYs/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlmMW0ydjJjMXZubjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8g4RUlsXsWnTV8cYCTl077azBQyFxb2Okh7olfzrRMs/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV3dm83YzYzZ241MjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.67gr9oQqVNVNQTXvDw16x09HSHk30JPC58pZqa4x6FY/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijl0dXY0enF5enBrOTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.0xrFcrmL2lXGxkRoj6Xf1NdSnS8CpsGMwd1Gz3pMV40/image;s=655x491;q=80"
-    ],
-    "source": "otodom",
-    "date": "2022-07-28 19:11:20",
-    "is_house": false
-  },
-  {
     "id": "otodom:59553378",
     "title": "Klimatyzowany apartament w Gda\u0144sku Wrzeszczu",
     "location": "gda\u0144sk, wrzeszcz, do studzienki 63",
@@ -7595,7 +7657,7 @@ otodom_data=[
   {
     "id": "otodom:63348468",
     "title": "Mieszkanie 2 pokojowe z aneksem, piwnica, gara\u017c",
-    "location": "juszkowo, ul. storczykowa",
+    "location": "juszkowo, gda\u0144ski, ul. storczykowa",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-2-pokojowe-z-aneksem-piwnica-garaz-ID4hNPu",
     "price": 2000,
     "area": 46,
@@ -7918,7 +7980,7 @@ otodom_data=[
   {
     "id": "otodom:63170459",
     "title": "Wynajm\u0119 mieszkanie 2 pok.",
-    "location": "starogard gda\u0144ski, starogardzki, ul. gen. franciszka kleeberga",
+    "location": "starogard gda\u0144ski, ul. gen. franciszka kleeberga",
     "url": "https://www.otodom.pl/pl/oferta/wynajme-mieszkanie-2-pok-ID4h3vn",
     "price": 900,
     "area": 36,
@@ -8150,30 +8212,6 @@ otodom_data=[
     ],
     "source": "otodom",
     "date": "2022-07-28 12:12:46",
-    "is_house": false
-  },
-  {
-    "id": "otodom:63346393",
-    "title": "Apartament Strzelc\u00f3w Ma\u0142y Kack 2 ogr\u00f3dki",
-    "location": "gdynia, ma\u0142y kack, strzelc\u00f3w",
-    "url": "https://www.otodom.pl/pl/oferta/apartament-strzelcow-maly-kack-2-ogrodki-ID4hNi1",
-    "price": 4000,
-    "area": 74,
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNlbjQza2c5N2JnYi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.xw8qLoJD2tBHJ6PL0m7fBgEKkHdR2UKqhxENzB2v7Lg/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9odjhzd2p4OGxpNDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Tchp0HlyCojenyAbLmmnMH5tsGOOW6vq3J6nUS4RhFc/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhhNHFsaXNpN2ljeC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._bkbT97ceYrwcR2zYpD1wU6dlBxK8cg5VmDgS0s1mYE/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcyaGdhdGhhMmhlZDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.9J2cZ-SgAeIILXCw-_qJuPGdCuMT2INAWZZHWO3Rgt0/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9wb3A4ZzNsbGdpZTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DN8BBA-rPzd5VtnHfo4IbsVONb_FudMOGctM5JD3lTI/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVkNjIxdDMzaHdpMTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._SDJFEDJNqUmb52dgvrDcvsekp9wTg_YrZfA0vc2xP0/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imo2M2dyMTlsNWdtZTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wm3a9G9wdJoE3P6GAkfJnTNYGRyQUDjbZG6eIHcGsQw/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRudTgwdG5qMjNyZTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.vNbiqPGpvnYnTB6tTjd7N_saN0MLuj7MAcWdUTDSHUA/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjR3cm0xbXY4anVtMTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LeBXbxquGykaHkZQrw7IqoBhJ9Z9eQ7aEx0dzoxGWDU/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdoamVjbXIyejBpNy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.9kEpFeelTJBX0BCgO9sKjFNdIL06efQ_HVrs_Dmidd4/image;s=655x491;q=80"
-    ],
-    "source": "otodom",
-    "date": "2022-07-28 11:04:12",
     "is_house": false
   },
   {
@@ -9118,27 +9156,6 @@ otodom_data=[
     "is_house": false
   },
   {
-    "id": "otodom:63344607",
-    "title": "Mieszkanie 2 pok.Gdynia Chylonia ul.Chylo\u0144ska",
-    "location": "gdynia, chylonia, ul. chylo\u0144ska",
-    "url": "https://www.otodom.pl/pl/oferta/mieszkanie-2-pok-gdynia-chylonia-ul-chylonska-ID4hMPd",
-    "price": 2400,
-    "area": 47,
-    "rooms": "2",
-    "images": [
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims0MnZzdjlhc3F0OTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.W5B7Y38V_9Gow1VXLd8cARBFXvf2AN0L5pMLfcC5zaE/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InAxcml6NTNqdnA3Zy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.obU2hHBiYBTtV0gfnhJpdZAD8RJK4hpFsBUakE4kGTQ/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBycmtubDZyaWdiMTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.BTxXezOBhtRaXPkcoKTe2IA161HlJqYbKT68rjFCty8/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZucjNvMXdsNTY0ZDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4aaTncxEZidi35pjLOqkp9RF38KsyvvBkDur6E9TiRQ/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InR5YjhvdXNyYWJlZTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.noIQUoWgAKIg5A2ukq638oqXYM0RvGhTmd-6oU4eRpE/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5cjB5OXF5YnNjazItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fB5wlFq42JzDX015HRPIneYG0xsJ-pIDUkBz8SiR7-g/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhuOWQwbXd0Z3g0MTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gn8KqRSNI_j1AMX_HvTPcj9Sk_3uwBYtIVxOurf9-L4/image;s=655x491;q=80"
-    ],
-    "source": "otodom",
-    "date": "2022-07-27 16:37:59",
-    "is_house": false
-  },
-  {
     "id": "otodom:63344478",
     "title": "Przestronne mieszkanie w cichej okolicy",
     "location": "gda\u0144sk, uje\u015bcisko-\u0142ostowice, \u0142ostowice, ul. \u0142ucznicza",
@@ -9433,7 +9450,7 @@ otodom_data=[
   {
     "id": "otodom:63342072",
     "title": "Wynajm\u0119 mieszkanie 3 pokojowe",
-    "location": "starogardzki, brzozowa, zblewo",
+    "location": "brzozowa, zblewo",
     "url": "https://www.otodom.pl/pl/oferta/wynajme-mieszkanie-3-pokojowe-ID4hMak",
     "price": 2250,
     "area": 70,
@@ -10824,7 +10841,7 @@ otodom_data=[
   {
     "id": "otodom:63337074",
     "title": "2 pok.mieszkanie, m.post. w hali,ul.Wejhera, Rumia",
-    "location": "rumia, wejhera",
+    "location": "rumia, wejherowski, wejhera",
     "url": "https://www.otodom.pl/pl/oferta/2-pok-mieszkanie-m-post-w-hali-ul-wejhera-rumia-ID4hKRI",
     "price": 2500,
     "area": 85,
@@ -12646,7 +12663,7 @@ otodom_data=[
   {
     "id": "otodom:63327409",
     "title": "Mieszkanie, 40 m\u00b2, Kwidzyn",
-    "location": "kwidzyn",
+    "location": "kwidzyn, kwidzy\u0144ski",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-40-m-kwidzyn-ID4hIlP",
     "price": 1300,
     "area": 40,
@@ -13155,7 +13172,7 @@ otodom_data=[
   {
     "id": "otodom:63323563",
     "title": "Zamieszkaj w Redzie!",
-    "location": "reda, wejherowski, obwodowa",
+    "location": "reda, obwodowa",
     "url": "https://www.otodom.pl/pl/oferta/zamieszkaj-w-redzie-ID4hHlN",
     "price": 3000,
     "area": 79.1,
@@ -13445,7 +13462,7 @@ otodom_data=[
   {
     "id": "otodom:63320192",
     "title": "Wynajm\u0119 kawalerk\u0119",
-    "location": "chojnice, ul. gda\u0144ska, chojnicki",
+    "location": "chojnice, ul. gda\u0144ska",
     "url": "https://www.otodom.pl/pl/oferta/wynajme-kawalerke-ID4hGtq",
     "price": 1200,
     "area": 31.2,
@@ -13608,7 +13625,7 @@ otodom_data=[
   {
     "id": "otodom:63319610",
     "title": "Mieszkanie - Jedna cena ca\u0142y rok z wszystkim",
-    "location": "tczew, tczewski, \u017ceglarska",
+    "location": "tczew, \u017ceglarska",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-jedna-cena-caly-rok-z-wszystkim-ID4hGk2",
     "price": 2400,
     "area": 35,
@@ -13865,7 +13882,7 @@ otodom_data=[
   {
     "id": "otodom:59970168",
     "title": "Pi\u0119kne mieszkanie w Wejherowie blisko SKM",
-    "location": "wejherowo, wejherowski",
+    "location": "wejherowo",
     "url": "https://www.otodom.pl/pl/oferta/piekne-mieszkanie-w-wejherowie-blisko-skm-ID43CYM",
     "price": 2550,
     "area": 62,
@@ -16128,7 +16145,7 @@ otodom_data=[
   {
     "id": "otodom:63291864",
     "title": "Mieszkanie na wynajem w apertamentowcu",
-    "location": "tczew, tczewski, kili\u0144skiego",
+    "location": "tczew, kili\u0144skiego",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-na-wynajem-w-apertamentowcu-ID4hz6v",
     "price": 2000,
     "area": 45.7,
@@ -16390,7 +16407,7 @@ otodom_data=[
   {
     "id": "otodom:63062836",
     "title": "Wynajm\u0119 Pokoje Pracownicze",
-    "location": "l\u0119borski, \u0142eba",
+    "location": "\u0142eba",
     "url": "https://www.otodom.pl/pl/oferta/wynajme-pokoje-pracownicze-ID4gBvv",
     "price": 1050,
     "area": 450,
@@ -16836,7 +16853,7 @@ otodom_data=[
   {
     "id": "otodom:63278426",
     "title": "2- pokojowe w nowym budownictwie z parkingiem",
-    "location": "rumia, ul. kosynier\u00f3w",
+    "location": "rumia, wejherowski, ul. kosynier\u00f3w",
     "url": "https://www.otodom.pl/pl/oferta/2-pokojowe-w-nowym-budownictwie-z-parkingiem-ID4hwBM",
     "price": 2000,
     "area": 34,
@@ -17215,7 +17232,7 @@ otodom_data=[
   {
     "id": "otodom:63269100",
     "title": "Mieszkanie, 38,12 m\u00b2, Kwidzyn",
-    "location": "kwidzyn, kwidzy\u0144ski",
+    "location": "kwidzyn",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-38-12-m-kwidzyn-ID4htbm",
     "price": 1500,
     "area": 38.12,
@@ -17454,7 +17471,7 @@ otodom_data=[
   {
     "id": "otodom:63163388",
     "title": "Ustka, apartament nad morzem",
-    "location": "ustka, na wydmie",
+    "location": "ustka, s\u0142upski, na wydmie",
     "url": "https://www.otodom.pl/pl/oferta/ustka-apartament-nad-morzem-ID4h1Gk",
     "price": 2300,
     "area": 43,
@@ -17950,32 +17967,6 @@ otodom_data=[
     "is_house": false
   },
   {
-    "id": "otodom:63250042",
-    "title": "\u015ar\u00f3dmie\u015bcie/3 Pokoje/ Balkon/ Od Zaraz",
-    "location": "gda\u0144sk, \u015br\u00f3dmie\u015bcie, gdy\u0144skich kosynier\u00f3w",
-    "url": "https://www.otodom.pl/pl/oferta/srodmiescie-3-pokoje-balkon-od-zaraz-ID4hodY",
-    "price": 4700,
-    "area": 80,
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imhqc2VrbHNqNHY3YS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.TU3HDcaGGwI9WHTT7nJYrAZFqOjieUrlsaVzMsqgnXg/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjYyOGZ3MWl1cjB5cy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.7IHk4Nzy9KyQ8ozUdufv9YR3NK_BqnyZc2i3GPCfns0/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ2OG45MDQ5dnhmNTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rjxQmHA8z3Oc1UW25jnrzPYAi5btOFqJKezca9ocdBA/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFpNGRubnVzMjNmcTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PbZ0jiQsvwf2jRyfVZBZoJJoso1vQ9mP-cLTfNYT4S0/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJsczU1bTZ2c3Q4dC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.S0tG4pbwq6M2J5I8Qs8lt_lMvOfCpH-dw1z4LePMzcg/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijl3MTB0bXhiam43ODMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.EthxWuEoO7K6_8QSPgVdB5iZ1s1B1fPE0eUkZWS4CZ8/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ink3dHR4bHRiMXl2bDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1U1pbTuu-50gfSYTBt_f8CMld0J-hx77JlEqrzGpYFY/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9qNGEyZ2FmZmk4dDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wZPqsGsq8nv2aQ51zAGnju-zxjDWUg9ekZ2YdK1kTmA/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV4Z214cmd2OGowNjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DN3bTI8ix64RWr4Ql8gZqNvek_cxXcSX6fXwvKfvTRU/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InllcG5zZWhpMHlrMS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.cER520voZl5NhNdWbitkGThHYq7vAoVORA7PcpOKgw8/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ4c2N6ZGU1eXl5Yy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.m0hZzYqP4bWhHb5tVfV728kS5yLULtSjUlFHPpIyCec/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjUzZnRkN2ljOWF2bTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oeTroLGVpDtIWtUwpCU0e6XYfCcs5K51jyBSf1_Wv9M/image;s=655x491;q=80"
-    ],
-    "source": "otodom",
-    "date": "2022-06-30 12:05:45",
-    "is_house": false
-  },
-  {
     "id": "otodom:63249204",
     "title": "Luksusowy apartament z tarasem ca\u0142orocznym Brze\u017ano",
     "location": "gda\u0144sk, brze\u017ano, gen. j\u00f3zefa hallera",
@@ -18365,7 +18356,7 @@ otodom_data=[
   {
     "id": "otodom:63226779",
     "title": "Mieszkanie 2 pokoje/ 1 pi\u0119tro Nowo Wyremontowane",
-    "location": "malbork, ul. henryka sienkiewicza, malborski",
+    "location": "malbork, ul. henryka sienkiewicza",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-2-pokoje-1-pietro-nowo-wyremontowane-ID4hiaL",
     "price": 1400,
     "area": 40,
@@ -18458,31 +18449,6 @@ otodom_data=[
     ],
     "source": "otodom",
     "date": "2022-06-22 12:52:43",
-    "is_house": false
-  },
-  {
-    "id": "otodom:63220856",
-    "title": "Dwa pokoje w centrum Wrzeszcza",
-    "location": "gda\u0144sk, wrzeszcz, jana kili\u0144skiego",
-    "url": "https://www.otodom.pl/pl/oferta/dwa-pokoje-w-centrum-wrzeszcza-ID4hgDe",
-    "price": 3000,
-    "area": 40,
-    "rooms": "2",
-    "images": [
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9mNGw4ZTUxanZiMzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oOnlX-PM0Y2RgDXTY9F2Tsd4SZz5VNObekcIKF7YhOw/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im95Nzk4anNqNjhydDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.YCmBSagUuxwFCBfc4xADk2_ndYvupx7YmEct_EhxApQ/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijl6eG5yeWx3ZXdqczItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.N9CVTFdx1R-b2T_vcqgpUEe-4DC-bnI5l9XtCKsR9CA/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx2NnVjNzV2N3VnOS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.6P3Frm0FJ7PWo4cQNvShomAao8dq17ABmFfpkY99B_0/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV6bmMwNHN2NWJmMTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZlDGP4J3ZBv_6Km_h5YYCL15Wz1PyYOWEZBmU9ERnQg/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZmcjJsc25seWJ1NjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.9SlUMIglHYWJxeL_gZbc6yK4MOGg2TA27OQC_POUc8s/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZodGNpZTU5YXM4MDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.n9MkM_zHEnIe6NbRkLVS0slzb1MkaqdyQz5lLaZ2a-s/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImU4OHhtZzRtbGkyYzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.NiSmSkqb4UK3oRtYNx1NEQvJjrLhUy1VzaDTWL1-8jQ/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im84Z2VheG5ud3FsLUFQTCIsInciOlt7ImZuIjoiZW52ZnFxZTFheTRrMS1BUEwiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.-YaeqVg3k-wqzZnGjfgqHync6WpjXRaNoOD0Z5GSKkk/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imt1Yzh0OWY2Yzh3YzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.IFuiPyWCJKlxsq7L0qPhlPhX9IE1u7mzCsUnMzrbTSc/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZrc3p2d21vbmNlNDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.G9AI3xGpsCsLsUe3PqTxASf7roPK1xIK_qDFfuU4JRo/image;s=655x491;q=80"
-    ],
-    "source": "otodom",
-    "date": "2022-06-22 12:04:16",
     "is_house": false
   },
   {
@@ -19730,7 +19696,7 @@ otodom_data=[
   {
     "id": "otodom:63067678",
     "title": "Mieszkanie, 35,10 m\u00b2, L\u0119bork",
-    "location": "l\u0119bork, l\u0119borski, rtm. witolda pileckiego",
+    "location": "l\u0119bork, rtm. witolda pileckiego",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-35-10-m-lebork-ID4gCMC",
     "price": 1100,
     "area": 35.1,
@@ -20134,31 +20100,6 @@ otodom_data=[
     ],
     "source": "otodom",
     "date": "2022-04-15 15:22:47",
-    "is_house": false
-  },
-  {
-    "id": "otodom:62977817",
-    "title": "Kawalerka w Mostach z widokiem na morze!",
-    "location": "gdy\u0144ska, mosty",
-    "url": "https://www.otodom.pl/pl/oferta/kawalerka-w-mostach-z-widokiem-na-morze-ID4gfpf",
-    "price": 1600,
-    "area": 30,
-    "rooms": "1",
-    "images": [
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh5cnk0Z2phNXNhaDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VmOyPZ56BOBWwashoogyBsgJ38ZnL8Um3nNKojTQfOs/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUwdmE0cXZqYTdyaDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3CoE6HFfSOXz-MVvjPunldCKnIvNRv3upKhiSo6DBvU/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imk4MWFwNTRuNzFuNzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.zGoFW7tfIzJF1eUIeC3LuV6EC5hTMDBremApKTk9zno/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNrcmtnZzFnMWVvdDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.BHWEQTiyOBBSaj6vBOIb9GXaJYfRZ4rfbccJepNxfzM/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZoY2h2ZG90cTMxODEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3vbDUn_UDnhHO8sKoUKPboMK4U6ZYd7sr_zH0ytCbxE/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InM2MGd1eXE2dnF1OS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.g2PXhPH2P1JlTwRbiw08ucYAIVEbSxPMo50IKp2By6k/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1uaTB6MWozMnlzMzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Z6SUkMS1A9Tj8ewh9Al6dWr-qgRqmY1QL_Nalkl3sIw/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InR2NTdiOW94bHRoYS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.O_S4juUG72CfU7sTn_yIPsYnkCSr7fTBaJNHVDO4rd0/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVzbG1hMnc4YjU2dTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.G1cLCmZaRVto4etARZCQFdQMHe8YpsxiJCcFnk-xW_o/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhtcmFscmJ3bTZrOTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LmRYmG7VM2mQcorM7GGgYpev_a7GZ_VoenhVYu4x7YA/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVkd293bG11YnhoYjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.dJRn6nh1FGCewE72TonrnVJzCl30tNiEhuCKFnkRAR0/image;s=655x491;q=80"
-    ],
-    "source": "otodom",
-    "date": "2022-04-12 11:45:44",
     "is_house": false
   },
   {
@@ -20951,7 +20892,7 @@ otodom_data=[
   {
     "id": "otodom:62427007",
     "title": "Mieszkanie, 15 m\u00b2, Kwidzyn",
-    "location": "kwidzyn",
+    "location": "kwidzyn, kwidzy\u0144ski",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-15-m-kwidzyn-ID4dV7d",
     "price": 600,
     "area": 15,
@@ -21365,7 +21306,7 @@ otodom_data=[
   {
     "id": "otodom:62132501",
     "title": "ApartDomek 40m2 z dzia\u0142k\u0105, tarasem - sierpie\u0144+odX",
-    "location": "stegna, nowodworski",
+    "location": "stegna",
     "url": "https://www.otodom.pl/pl/oferta/apartdomek-40m2-z-dzialka-tarasem-sierpien-odx-ID4cHw7",
     "price": 1999,
     "area": 40,
@@ -22970,9 +22911,32 @@ otodom_data=[
     "is_house": false
   },
   {
+    "id": "otodom:62826967",
+    "title": "Banino Borowiec Nowy bli\u017aniak - najem na d\u0142u\u017cej",
+    "location": "banino",
+    "url": "https://www.otodom.pl/pl/oferta/banino-borowiec-nowy-blizniak-najem-na-dluzej-ID4fCab",
+    "price": 3600,
+    "area": 90,
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9pOGFkbndiZDYwNC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.I0A-3cfOhyE-W4FTd5BifM6WrHMujdXt1I6davUFD3k/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNtdGFyYnF3cHo5YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pJVBSZsZIjCsDK9N66cJJ0PW6tutofEuP_kQ0dYYUIs/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcyaWNmMmp2MG41ei1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.lrr6KffnVIaqoq0lfx1n-oqNvXuN9g9slbOPemNA3z0/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcxM3FmenkwOXk2azItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JBgnoCDwnG_XUpMBFNMJqp6mPF8-kGLtU3U-b3bdvBg/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF4MnNwZWU5YXQzZTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RIIo6b3uqoAjpRm6G5yAqSMpZ_tgRHoF9leG83W1Ujo/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBmeHUycjJ0ZTh3dTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cwWUSCSI3S5k_n6cEfkZmklr7y2_U6J-y7ZDbY-yIJ8/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBteHM5bm53bnZqeC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sQMLVMEzwEoy6v5npcIK_RbGLPaDds3nA3YVM_5LYYU/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZvYW5tdmhjeDk3dTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2HuKxRHMVVhY4M744heMCgD740EBWeO1rMO0Xy5dR2A/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhvbW8wc3FzMTRlazItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.blrt8beaxbcpmhZ1s3uZm_dpF1gOk_1qxRDNPqiQMWA/image;s=655x491;q=80"
+    ],
+    "source": "otodom",
+    "date": "2022-08-02 12:39:10",
+    "is_house": true
+  },
+  {
     "id": "otodom:63360017",
     "title": "Dom Pog\u00f3rze Ogr\u00f3d Kominek",
-    "location": "pog\u00f3rze, pucki, ul. piotra dunina",
+    "location": "pog\u00f3rze, ul. piotra dunina, pucki",
     "url": "https://www.otodom.pl/pl/oferta/dom-pogorze-ogrod-kominek-ID4hQPL",
     "price": 6500,
     "area": 138.6,
@@ -23079,7 +23043,7 @@ otodom_data=[
   {
     "id": "otodom:63349848",
     "title": "dom nad morzem Podd\u0105bie teraz sierpien 4000zl tydz",
-    "location": "podd\u0105bie",
+    "location": "podd\u0105bie, s\u0142upski",
     "url": "https://www.otodom.pl/pl/oferta/dom-nad-morzem-poddabie-teraz-sierpien-4000zl-tydz-ID4hObK",
     "price": 4000,
     "area": 110,
@@ -23113,7 +23077,7 @@ otodom_data=[
   {
     "id": "otodom:60355730",
     "title": "Dom nad jeziorem na 10 os\u00f3b",
-    "location": "tczewski, olsze",
+    "location": "olsze",
     "url": "https://www.otodom.pl/pl/oferta/dom-nad-jeziorem-na-10-osob-ID45fhv",
     "price": 1000,
     "area": 250,
@@ -23191,7 +23155,7 @@ otodom_data=[
   {
     "id": "otodom:63353456",
     "title": "Stylowy dom z 4 sypialniami i biurem przy S7",
-    "location": "ul. ja\u015bminowa, kmiecin",
+    "location": "ul. ja\u015bminowa, nowodworski, kmiecin",
     "url": "https://www.otodom.pl/pl/oferta/stylowy-dom-z-4-sypialniami-i-biurem-przy-s7-ID4hP7V",
     "price": 5000,
     "area": 170,
@@ -23225,7 +23189,7 @@ otodom_data=[
   {
     "id": "otodom:63284246",
     "title": "dom morze Podd\u0105bie / Ustka/ 3000zl tydzien wrzesi",
-    "location": "podd\u0105bie, s\u0142upski",
+    "location": "podd\u0105bie",
     "url": "https://www.otodom.pl/pl/oferta/dom-morze-poddabie-ustka-3000zl-tydzien-wrzesi-ID4hx7E",
     "price": 3000,
     "area": 110,
@@ -23326,7 +23290,7 @@ otodom_data=[
   {
     "id": "otodom:63347693",
     "title": "Wysoki standard, ogr\u00f3dek, gotwe do zamieszkania",
-    "location": "banino, d\u0105browa, kartuski",
+    "location": "banino, d\u0105browa",
     "url": "https://www.otodom.pl/pl/oferta/wysoki-standard-ogrodek-gotwe-do-zamieszkania-ID4hNCZ",
     "price": 7200,
     "area": 77.18,
@@ -23411,7 +23375,7 @@ otodom_data=[
   {
     "id": "otodom:63283859",
     "title": "Wynajm\u0119 dom, Wejherowo ul.Gniewowska. 300m od S\u0105du",
-    "location": "wejherowo, wejherowski, ul. gniewowska",
+    "location": "wejherowo, ul. gniewowska",
     "url": "https://www.otodom.pl/pl/oferta/wynajme-dom-wejherowo-ul-gniewowska-300m-od-sadu-ID4hx1p",
     "price": 5999,
     "area": 100,
@@ -23739,29 +23703,6 @@ otodom_data=[
     "is_house": true
   },
   {
-    "id": "otodom:62826967",
-    "title": "Banino Borowiec Nowy bli\u017aniak - najem na d\u0142u\u017cej",
-    "location": "banino",
-    "url": "https://www.otodom.pl/pl/oferta/banino-borowiec-nowy-blizniak-najem-na-dluzej-ID4fCab",
-    "price": 3600,
-    "area": 90,
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9pOGFkbndiZDYwNC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.I0A-3cfOhyE-W4FTd5BifM6WrHMujdXt1I6davUFD3k/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNtdGFyYnF3cHo5YzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pJVBSZsZIjCsDK9N66cJJ0PW6tutofEuP_kQ0dYYUIs/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcyaWNmMmp2MG41ei1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.lrr6KffnVIaqoq0lfx1n-oqNvXuN9g9slbOPemNA3z0/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcxM3FmenkwOXk2azItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.JBgnoCDwnG_XUpMBFNMJqp6mPF8-kGLtU3U-b3bdvBg/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF4MnNwZWU5YXQzZTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RIIo6b3uqoAjpRm6G5yAqSMpZ_tgRHoF9leG83W1Ujo/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBmeHUycjJ0ZTh3dTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cwWUSCSI3S5k_n6cEfkZmklr7y2_U6J-y7ZDbY-yIJ8/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBteHM5bm53bnZqeC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sQMLVMEzwEoy6v5npcIK_RbGLPaDds3nA3YVM_5LYYU/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZvYW5tdmhjeDk3dTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2HuKxRHMVVhY4M744heMCgD740EBWeO1rMO0Xy5dR2A/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhvbW8wc3FzMTRlazItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.blrt8beaxbcpmhZ1s3uZm_dpF1gOk_1qxRDNPqiQMWA/image;s=655x491;q=80"
-    ],
-    "source": "otodom",
-    "date": "2022-07-23 12:39:09",
-    "is_house": true
-  },
-  {
     "id": "otodom:63328449",
     "title": "Dom (Segment \u015brodkowy) - Gda\u0144sk Morena",
     "location": "gda\u0144sk, piecki-migowo, morena, aleksandra volty",
@@ -23798,7 +23739,7 @@ otodom_data=[
   {
     "id": "otodom:63328309",
     "title": "Dom Dla Pracownik\u00f3w Lub Firmy 200 M2 - Pruszcz Gda",
-    "location": "gda\u0144ski, \u0142\u0119gowo",
+    "location": "\u0142\u0119gowo",
     "url": "https://www.otodom.pl/pl/oferta/dom-dla-pracownikow-lub-firmy-200-m2-pruszcz-gda-ID4hIAl",
     "price": 7000,
     "area": 300,
@@ -23827,7 +23768,7 @@ otodom_data=[
   {
     "id": "otodom:63293282",
     "title": "Banino dom do zamieszkania lub na siedzib\u0119 firmy",
-    "location": "banino, kartuski, raka",
+    "location": "banino, raka",
     "url": "https://www.otodom.pl/pl/oferta/banino-dom-do-zamieszkania-lub-na-siedzibe-firmy-ID4hzto",
     "price": 8000,
     "area": 250,
@@ -23967,7 +23908,7 @@ otodom_data=[
   {
     "id": "otodom:63321744",
     "title": "Przestronny dom w spokojnej okolicy Gda\u0144ska",
-    "location": "kleszczewko",
+    "location": "gda\u0144ski, kleszczewko",
     "url": "https://www.otodom.pl/pl/oferta/przestronny-dom-w-spokojnej-okolicy-gdanska-ID4hGSs",
     "price": 6000,
     "area": 170,
@@ -24287,7 +24228,7 @@ otodom_data=[
   {
     "id": "otodom:63285502",
     "title": "Dom",
-    "location": "pruszcz gda\u0144ski, gda\u0144ski, ul. szarych szereg\u00f3w",
+    "location": "pruszcz gda\u0144ski, ul. szarych szereg\u00f3w",
     "url": "https://www.otodom.pl/pl/oferta/dom-ID4hxrU",
     "price": 9000,
     "area": 300,
@@ -24348,7 +24289,7 @@ otodom_data=[
   {
     "id": "otodom:63278934",
     "title": "Dom marze\u0144 w pi\u0119knej okolicy dla rodziny lub biuro",
-    "location": "kartuski, szmaragdowa, lniska",
+    "location": "szmaragdowa, lniska",
     "url": "https://www.otodom.pl/pl/oferta/dom-marzen-w-pieknej-okolicy-dla-rodziny-lub-biuro-ID4hwJY",
     "price": 6000,
     "area": 167,
@@ -24459,7 +24400,7 @@ otodom_data=[
   {
     "id": "otodom:63273800",
     "title": "Ropuchy - dom na wynajem blisko zjazdu na A1",
-    "location": "ropuchy",
+    "location": "tczewski, ropuchy",
     "url": "https://www.otodom.pl/pl/oferta/ropuchy-dom-na-wynajem-blisko-zjazdu-na-a1-ID4hupa",
     "price": 4000,
     "area": 200,
@@ -24798,7 +24739,7 @@ otodom_data=[
   {
     "id": "otodom:63210741",
     "title": "Dom w otulinie zieleni, w pobli\u017cu las\u00f3w i jezior!",
-    "location": "borkowo, kartuski, letniskowa",
+    "location": "borkowo, letniskowa",
     "url": "https://www.otodom.pl/pl/oferta/dom-w-otulinie-zieleni-w-poblizu-lasow-i-jezior-ID4he05",
     "price": 15000,
     "area": 270,
@@ -25074,7 +25015,7 @@ otodom_data=[
   {
     "id": "otodom:63080118",
     "title": "Przestronny dom z si\u0142owni\u0105 w Go\u0142\u0119biewie Wielkim",
-    "location": "chabrowa, go\u0142\u0119biewo wielkie",
+    "location": "gda\u0144ski, chabrowa, go\u0142\u0119biewo wielkie",
     "url": "https://www.otodom.pl/pl/oferta/przestronny-dom-z-silownia-w-golebiewie-wielkim-ID4gG1g",
     "price": 6900,
     "area": 250,
@@ -25123,7 +25064,7 @@ otodom_data=[
   {
     "id": "otodom:63115828",
     "title": "dom jednorodzinny na wynajem! 120m2 w Siemianicach",
-    "location": "s\u0142upski, siemianice",
+    "location": "siemianice",
     "url": "https://www.otodom.pl/pl/oferta/dom-jednorodzinny-na-wynajem-120m2-w-siemianicach-ID4gPje",
     "price": 6500,
     "area": 120,
@@ -25281,7 +25222,7 @@ otodom_data=[
   {
     "id": "otodom:63052859",
     "title": "Du\u017cy dom! Dla Ukrainy! Od 1.08.2022",
-    "location": "gdy\u0144ska, \u017cukowo",
+    "location": "\u017cukowo, kartuski, gdy\u0144ska",
     "url": "https://www.otodom.pl/pl/oferta/duzy-dom-dla-ukrainy-od-1-08-2022-ID4gyWB",
     "price": 6999,
     "area": 175,
@@ -25315,7 +25256,7 @@ otodom_data=[
   {
     "id": "otodom:63039232",
     "title": "Dom wolnostoj\u0105cy w Bojanie z ogrodem i gara\u017cem",
-    "location": "wejherowski, bojano, cicha",
+    "location": "bojano, cicha",
     "url": "https://www.otodom.pl/pl/oferta/dom-wolnostojacy-w-bojanie-z-ogrodem-i-garazem-ID4gwnO",
     "price": 7000,
     "area": 250,
@@ -25480,7 +25421,7 @@ otodom_data=[
   {
     "id": "otodom:62839311",
     "title": "Pensjonat z 5 pokojami i \u0142azienkami; W\u0142adys\u0142awowo",
-    "location": "pucki, sterowa, w\u0142adys\u0142awowo",
+    "location": "sterowa, w\u0142adys\u0142awowo",
     "url": "https://www.otodom.pl/pl/oferta/pensjonat-z-5-pokojami-i-lazienkami-wladyslawowo-ID4fFnh",
     "price": 4000,
     "area": 123,
@@ -25578,7 +25519,7 @@ otodom_data=[
   {
     "id": "otodom:62739136",
     "title": "Wynajm\u0119 lokal us\u0142ugowy na \u017bwirki w Tczewie",
-    "location": "tczew, tczewski, \u017cwirki",
+    "location": "tczew, \u017cwirki",
     "url": "https://www.otodom.pl/pl/oferta/wynajme-lokal-uslugowy-na-zwirki-w-tczewie-ID4ffjy",
     "price": 4000,
     "area": 120,
@@ -25880,7 +25821,7 @@ otodom_data=[
   {
     "id": "otodom:61148683",
     "title": "Dom pracowniczy dla 20 os\u00f3b - Pruszcz Gda\u0144ski",
-    "location": "gda\u0144ski, rotmanka, aleja pi\u0142sudskiego",
+    "location": "rotmanka, aleja pi\u0142sudskiego",
     "url": "https://www.otodom.pl/pl/oferta/dom-pracowniczy-dla-20-osob-pruszcz-gdanski-ID48zz5",
     "price": 12000,
     "area": 300,
@@ -25912,7 +25853,7 @@ otodom_data=[
   {
     "id": "otodom:58179608",
     "title": "Dom - Banino",
-    "location": "banino, kartuski",
+    "location": "banino",
     "url": "https://www.otodom.pl/pl/oferta/dom-banino-ID3V7aM",
     "price": 6000,
     "area": 80,

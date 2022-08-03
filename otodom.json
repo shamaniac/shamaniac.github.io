@@ -1,5 +1,34 @@
 otodom_data=[
   {
+    "id": "otodom:63262606",
+    "title": "Mieszkanie, 47,28 m\u00b2, Rumia",
+    "location": "rumia, ul. jeziorna",
+    "url": "https://www.otodom.pl/pl/oferta/mieszkanie-47-28-m-rumia-ID4hruC",
+    "price": 2700,
+    "area": 47.28,
+    "rooms": "2",
+    "images": [
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBzdm96dmd1Z2VqYjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qy7tvBjEbw0Cl-izpf73gAgmgtOmoNtmIqvVENI5g6g/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhrcGxhcmJzcXkwcjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VePvceULI7-B9d3gDYs6vhm9zRDrW3eS_ZShExyyY-c/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh3ZHJxemhuMjNlbDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5RlwCoDNmLDyGva0n8yinQ5xCFRrdol0K6Jy3CKjDig/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IngzdThoZXAweXQ5ZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1JoVDgC6Tclwgc-_OXue-xiye-6XuucNFPjhsw0VRew/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjMxZnRqZzRqZ2s5MDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fJ7MxvvThOJ3Q2uAv6H0x7qW2NtwrwX6mUawuwGXkK4/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJnZGkyZ21veHBocjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fbTMOSBqJmY2uH9LsX0mSRAUdMoKX6ahbZRt0paJ2HQ/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNqbWhjODU3Nm44ejItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.L3eS6G__REDUfnKt9QGcPDhFd7h_8OruGjMelpj-i-Y/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhneXFxNHM2NDk0cDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.45PLMsij-bDRZbmqO2Dgvgsy9c3b7FcJaO36E-HaiTM/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhuYW51dmJnc3kycTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lOF4voKDyeiWp62Y2kakus_Cc8so_TZivejgQfe5oEY/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRnYXY1bHRydnY5ai1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.j_ksXptsm5yOOhu59ulzxlZ0MZPJd2FxesvKjfgbhVA/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhwdXphcDdiM2plNzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.T7DFQhIBw1Mi2p-qxZYs_6d_J19IWjo-GKNPh6g7noU/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV4Nzlubm5qaHE2MzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KabIJiujP4UunM9Q22Xna-VgQ-ANVV9xR923-DROSSY/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVlZHJoa3RzOGJwajItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pY0d_jSufYoVo50i2keY-tkqEBCzaCp2OD0ohk-vvT0/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJ0eGZnaG15czNxbjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.SZMSNYcooHU9Rta-gd6B6akEHHDd-NvPuRsHepVDytc/image;s=655x491;q=80",
+      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InN5aDBhejMxdHgzYS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.UKmls7kS6jv0Lq-lJsoBrImenR9K0sNqBGcgg_41u7o/image;s=655x491;q=80"
+    ],
+    "source": "otodom",
+    "date": "2022-08-03 16:28:58",
+    "is_house": false
+  },
+  {
     "id": "otodom:60822979",
     "title": "Komfortowy apartament dla student\u00f3w Garnizon GDA",
     "location": "gda\u0144sk, wrzeszcz, antoniego s\u0142onimskiego 3",
@@ -390,7 +419,7 @@ otodom_data=[
   {
     "id": "otodom:63366027",
     "title": "Nowo\u015b\u0107 !! 2 pokoje",
-    "location": "reda, wejherowski, gda\u0144ska",
+    "location": "reda, gda\u0144ska",
     "url": "https://www.otodom.pl/pl/oferta/nowosc-2-pokoje-ID4hSoH",
     "price": 1900,
     "area": 35.05,
@@ -3624,7 +3653,7 @@ otodom_data=[
   {
     "id": "otodom:63359388",
     "title": "3 pokoje pod biura!",
-    "location": "wejherowo, wejherowski",
+    "location": "wejherowo",
     "url": "https://www.otodom.pl/pl/oferta/3-pokoje-pod-biura-ID4hQFC",
     "price": 1200,
     "area": 58.91,
@@ -6721,7 +6750,7 @@ otodom_data=[
   {
     "id": "otodom:63320369",
     "title": "Mieszkanie 2 pokoje, Kwidzyn Kopernika",
-    "location": "kwidzyn, ul. kopernika",
+    "location": "kwidzyn, kwidzy\u0144ski, ul. kopernika",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-2-pokoje-kwidzyn-kopernika-ID4hGvh",
     "price": 1300,
     "area": 46,
@@ -8005,7 +8034,7 @@ otodom_data=[
     "title": "Riverfront apartment, Nowa Mot\u0142awa, Jaglana",
     "location": "gda\u0144sk, \u015br\u00f3dmie\u015bcie, stare miasto, jaglana 6",
     "url": "https://www.otodom.pl/pl/oferta/riverfront-apartment-nowa-motlawa-jaglana-ID45qY0",
-    "price": 3499,
+    "price": 3899,
     "area": 51.5,
     "rooms": "2",
     "images": [
@@ -8990,7 +9019,7 @@ otodom_data=[
   {
     "id": "otodom:63348468",
     "title": "Mieszkanie 2 pokojowe z aneksem, piwnica, gara\u017c",
-    "location": "gda\u0144ski, juszkowo, ul. storczykowa",
+    "location": "juszkowo, ul. storczykowa",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-2-pokojowe-z-aneksem-piwnica-garaz-ID4hNPu",
     "price": 2000,
     "area": 46,
@@ -9445,7 +9474,7 @@ otodom_data=[
   {
     "id": "otodom:62102233",
     "title": "Wynajm\u0119 nowoczesne i w pe\u0142ni urz\u0105dzone mieszkanie!",
-    "location": "wejherowski, konwaliowa, bolszewo",
+    "location": "konwaliowa, bolszewo",
     "url": "https://www.otodom.pl/pl/oferta/wynajme-nowoczesne-i-w-pelni-urzadzone-mieszkanie-ID4czCW",
     "price": 2000,
     "area": 47,
@@ -10519,7 +10548,7 @@ otodom_data=[
   {
     "id": "otodom:63341411",
     "title": "Pruszcz/przestronne/jasne/3 pok./bez mebli/balkon",
-    "location": "gda\u0144ski, juszkowo, urocza",
+    "location": "juszkowo, urocza",
     "url": "https://www.otodom.pl/pl/oferta/pruszcz-przestronne-jasne-3-pok-bez-mebli-balkon-ID4hLZF",
     "price": 2400,
     "area": 63,
@@ -11824,7 +11853,7 @@ otodom_data=[
   {
     "id": "otodom:63335574",
     "title": "Wynajm\u0119 2 pokojowe Gda\u0144sk Oliwa",
-    "location": "nowy dw\u00f3r gda\u0144ski, nowodworski",
+    "location": "nowy dw\u00f3r gda\u0144ski",
     "url": "https://www.otodom.pl/pl/oferta/wynajme-2-pokojowe-gdansk-oliwa-ID4hKtv",
     "price": 3700,
     "area": 51,
@@ -11850,7 +11879,7 @@ otodom_data=[
   {
     "id": "otodom:63335513",
     "title": "Aqasfera, 2 pokoje, 2 miejsca w hali gara\u017cowej",
-    "location": "reda, wejherowski, ul. obwodowa",
+    "location": "reda, ul. obwodowa",
     "url": "https://www.otodom.pl/pl/oferta/aqasfera-2-pokoje-2-miejsca-w-hali-garazowej-ID4hKsx",
     "price": 2400,
     "area": 37.8,
@@ -12168,7 +12197,7 @@ otodom_data=[
   {
     "id": "otodom:63334551",
     "title": "2 pokoje, Najem, po\u0142udnie Gda\u0144ska!",
-    "location": "borkowo",
+    "location": "gda\u0144ski, borkowo",
     "url": "https://www.otodom.pl/pl/oferta/2-pokoje-najem-poludnie-gdanska-ID4hKd1",
     "price": 2000,
     "area": 36,
@@ -12329,35 +12358,6 @@ otodom_data=[
     ],
     "source": "otodom",
     "date": "2022-07-25 01:02:42",
-    "is_house": false
-  },
-  {
-    "id": "otodom:63262606",
-    "title": "Mieszkanie, 47,28 m\u00b2, Rumia",
-    "location": "rumia, ul. jeziorna",
-    "url": "https://www.otodom.pl/pl/oferta/mieszkanie-47-28-m-rumia-ID4hruC",
-    "price": 2700,
-    "area": 47.28,
-    "rooms": "2",
-    "images": [
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBzdm96dmd1Z2VqYjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qy7tvBjEbw0Cl-izpf73gAgmgtOmoNtmIqvVENI5g6g/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhrcGxhcmJzcXkwcjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VePvceULI7-B9d3gDYs6vhm9zRDrW3eS_ZShExyyY-c/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh3ZHJxemhuMjNlbDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5RlwCoDNmLDyGva0n8yinQ5xCFRrdol0K6Jy3CKjDig/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IngzdThoZXAweXQ5ZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1JoVDgC6Tclwgc-_OXue-xiye-6XuucNFPjhsw0VRew/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjMxZnRqZzRqZ2s5MDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fJ7MxvvThOJ3Q2uAv6H0x7qW2NtwrwX6mUawuwGXkK4/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJnZGkyZ21veHBocjItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fbTMOSBqJmY2uH9LsX0mSRAUdMoKX6ahbZRt0paJ2HQ/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNqbWhjODU3Nm44ejItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.L3eS6G__REDUfnKt9QGcPDhFd7h_8OruGjMelpj-i-Y/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhneXFxNHM2NDk0cDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.45PLMsij-bDRZbmqO2Dgvgsy9c3b7FcJaO36E-HaiTM/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhuYW51dmJnc3kycTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lOF4voKDyeiWp62Y2kakus_Cc8so_TZivejgQfe5oEY/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRnYXY1bHRydnY5ai1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.j_ksXptsm5yOOhu59ulzxlZ0MZPJd2FxesvKjfgbhVA/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhwdXphcDdiM2plNzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.T7DFQhIBw1Mi2p-qxZYs_6d_J19IWjo-GKNPh6g7noU/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV4Nzlubm5qaHE2MzItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.KabIJiujP4UunM9Q22Xna-VgQ-ANVV9xR923-DROSSY/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVlZHJoa3RzOGJwajItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.pY0d_jSufYoVo50i2keY-tkqEBCzaCp2OD0ohk-vvT0/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJ0eGZnaG15czNxbjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.SZMSNYcooHU9Rta-gd6B6akEHHDd-NvPuRsHepVDytc/image;s=655x491;q=80",
-      "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InN5aDBhejMxdHgzYS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.UKmls7kS6jv0Lq-lJsoBrImenR9K0sNqBGcgg_41u7o/image;s=655x491;q=80"
-    ],
-    "source": "otodom",
-    "date": "2022-07-24 16:29:02",
     "is_house": false
   },
   {
@@ -12612,7 +12612,7 @@ otodom_data=[
   {
     "id": "otodom:63330871",
     "title": "Mieszkanie - Pruszcz Gd.",
-    "location": "pruszcz gda\u0144ski",
+    "location": "pruszcz gda\u0144ski, gda\u0144ski",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-pruszcz-gd-ID4hJfF",
     "price": 2700,
     "area": 55,
@@ -12631,7 +12631,7 @@ otodom_data=[
   {
     "id": "otodom:63330511",
     "title": "nowe komfortowe, nieu\u017cywane mieszkanie z ogr\u00f3dkiem",
-    "location": "rumia, ul. d\u0119bog\u00f3rska",
+    "location": "rumia, wejherowski, ul. d\u0119bog\u00f3rska",
     "url": "https://www.otodom.pl/pl/oferta/nowe-komfortowe-nieuzywane-mieszkanie-z-ogrodkiem-ID4hJ9R",
     "price": 2500,
     "area": 31.5,
@@ -14272,7 +14272,7 @@ otodom_data=[
   {
     "id": "otodom:59970168",
     "title": "Pi\u0119kne mieszkanie w Wejherowie blisko SKM",
-    "location": "wejherowo",
+    "location": "wejherowo, wejherowski",
     "url": "https://www.otodom.pl/pl/oferta/piekne-mieszkanie-w-wejherowie-blisko-skm-ID43CYM",
     "price": 2550,
     "area": 62,
@@ -14753,7 +14753,7 @@ otodom_data=[
   {
     "id": "otodom:63310806",
     "title": "2 pokojowe mieszkanie w centrum Ko\u015bcierzyny",
-    "location": "ko\u015bcierzyna, ul. d\u0119bowa",
+    "location": "ko\u015bcierzyna, ul. d\u0119bowa, ko\u015bcierski",
     "url": "https://www.otodom.pl/pl/oferta/2-pokojowe-mieszkanie-w-centrum-koscierzyny-ID4hE22",
     "price": 1350,
     "area": 38,
@@ -14904,7 +14904,7 @@ otodom_data=[
   {
     "id": "otodom:63307018",
     "title": "Mieszkanie Rumia D\u0105browskiego",
-    "location": "rumia, ul. d\u0105browskiego",
+    "location": "rumia, wejherowski, ul. d\u0105browskiego",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-rumia-dabrowskiego-ID4hD2V",
     "price": 2600,
     "area": 55,
@@ -15213,7 +15213,7 @@ otodom_data=[
   {
     "id": "otodom:50902624",
     "title": "Mieszkanie do wynaj\u0119cia Czo\u0142gist\u00f3w , 2 pokoje, 54m",
-    "location": "l\u0119bork, ul. czo\u0142gist\u00f3w",
+    "location": "l\u0119bork, ul. czo\u0142gist\u00f3w, l\u0119borski",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-do-wynajecia-czolgistow-2-pokoje-54m-ID3rA64",
     "price": 1500,
     "area": 54,
@@ -15317,7 +15317,7 @@ otodom_data=[
   {
     "id": "otodom:63302685",
     "title": "Mieszkanie do wynaj\u0119cia",
-    "location": "rynek, prabuty, kwidzy\u0144ski",
+    "location": "rynek, prabuty",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-do-wynajecia-ID4hBW3",
     "price": 1100,
     "area": 36.88,
@@ -15735,7 +15735,7 @@ otodom_data=[
   {
     "id": "otodom:63300231",
     "title": "Mieszkanie na wynajem! Super lokalizacja!",
-    "location": "ko\u015bcierzyna, ko\u015bcierski, marii sk\u0142odowskiej-curie",
+    "location": "ko\u015bcierzyna, marii sk\u0142odowskiej-curie",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-na-wynajem-super-lokalizacja-ID4hBht",
     "price": 1800,
     "area": 54.03,
@@ -16173,7 +16173,7 @@ otodom_data=[
   {
     "id": "otodom:63295250",
     "title": "Pruszcz Gd - do remontu dla wyko\u0144czeniowc\u00f3w.",
-    "location": "pruszcz gda\u0144ski, grunwaldzka",
+    "location": "pruszcz gda\u0144ski, gda\u0144ski, grunwaldzka",
     "url": "https://www.otodom.pl/pl/oferta/pruszcz-gd-do-remontu-dla-wykonczeniowcow-ID4hzZ8",
     "price": 600,
     "area": 55.41,
@@ -16602,7 +16602,7 @@ otodom_data=[
   {
     "id": "otodom:63062836",
     "title": "Wynajm\u0119 Pokoje Pracownicze",
-    "location": "l\u0119borski, \u0142eba",
+    "location": "\u0142eba",
     "url": "https://www.otodom.pl/pl/oferta/wynajme-pokoje-pracownicze-ID4gBvv",
     "price": 1050,
     "area": 450,
@@ -17405,7 +17405,7 @@ otodom_data=[
   {
     "id": "otodom:63269100",
     "title": "Mieszkanie, 38,12 m\u00b2, Kwidzyn",
-    "location": "kwidzyn, kwidzy\u0144ski",
+    "location": "kwidzyn",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-38-12-m-kwidzyn-ID4htbm",
     "price": 1500,
     "area": 38.12,
@@ -17743,7 +17743,7 @@ otodom_data=[
   {
     "id": "otodom:63262380",
     "title": "Wynajm\u0119 nowy bezczynszowy dom z gara\u017cem!",
-    "location": "starogard gda\u0144ski",
+    "location": "starogard gda\u0144ski, starogardzki",
     "url": "https://www.otodom.pl/pl/oferta/wynajme-nowy-bezczynszowy-dom-z-garazem-ID4hrqY",
     "price": 3500,
     "area": 137.6,
@@ -18164,7 +18164,7 @@ otodom_data=[
   {
     "id": "otodom:63239681",
     "title": "2 pokoje po generalnym remoncie",
-    "location": "rumia, pomorska",
+    "location": "rumia, wejherowski, pomorska",
     "url": "https://www.otodom.pl/pl/oferta/2-pokoje-po-generalnym-remoncie-ID4hlvR",
     "price": 2150,
     "area": 36,
@@ -18371,7 +18371,7 @@ otodom_data=[
   {
     "id": "otodom:63219796",
     "title": "Mieszkanie, 50 m\u00b2, Kwidzyn",
-    "location": "kwidzyn",
+    "location": "kwidzyn, kwidzy\u0144ski",
     "url": "https://www.otodom.pl/pl/oferta/mieszkanie-50-m-kwidzyn-ID4hgm8",
     "price": 1700,
     "area": 50,
@@ -18457,7 +18457,7 @@ otodom_data=[
   {
     "id": "otodom:63212103",
     "title": "Pog\u00f3rze - Apartament 2 pokoje, balkon",
-    "location": "pog\u00f3rze, pucki, szymona czechowicza",
+    "location": "pog\u00f3rze, szymona czechowicza",
     "url": "https://www.otodom.pl/pl/oferta/pogorze-apartament-2-pokoje-balkon-ID4hem3",
     "price": 2750,
     "area": 47.8,
@@ -18575,7 +18575,7 @@ otodom_data=[
   {
     "id": "otodom:63202986",
     "title": "Kawalerka 1 pok. wynajem L\u0119bork ul. Chopina",
-    "location": "l\u0119bork, l\u0119borski, chopina",
+    "location": "l\u0119bork, chopina",
     "url": "https://www.otodom.pl/pl/oferta/kawalerka-1-pok-wynajem-lebork-ul-chopina-ID4hbZ0",
     "price": 1200,
     "area": 21.42,
@@ -18731,7 +18731,7 @@ otodom_data=[
   {
     "id": "otodom:63183032",
     "title": "4-pok mieszkanie w Redzie",
-    "location": "reda, wejherowska",
+    "location": "reda, wejherowski, wejherowska",
     "url": "https://www.otodom.pl/pl/oferta/4-pok-mieszkanie-w-redzie-ID4h6Na",
     "price": 2900,
     "area": 100,
@@ -19530,7 +19530,7 @@ otodom_data=[
   {
     "id": "otodom:63071935",
     "title": "Kawalerka na wynajem.",
-    "location": "malbork, malborski, j\u00f3zefa wybickiego",
+    "location": "malbork, j\u00f3zefa wybickiego",
     "url": "https://www.otodom.pl/pl/oferta/kawalerka-na-wynajem-ID4gDTh",
     "price": 1200,
     "area": 36,
@@ -20185,7 +20185,7 @@ otodom_data=[
   {
     "id": "otodom:62831947",
     "title": "2-pok.mieszkanie o wysokim standardzie w Aquasfera",
-    "location": "reda, morska",
+    "location": "reda, wejherowski, morska",
     "url": "https://www.otodom.pl/pl/oferta/2-pok-mieszkanie-o-wysokim-standardzie-w-aquasfera-ID4fDsw",
     "price": 2400,
     "area": 46,
@@ -20330,7 +20330,7 @@ otodom_data=[
   {
     "id": "otodom:62615439",
     "title": "Komfortowe mieszkania dla pracownik\u00f3w",
-    "location": "sosnowa, przejazdowo",
+    "location": "gda\u0144ski, sosnowa, przejazdowo",
     "url": "https://www.otodom.pl/pl/oferta/komfortowe-mieszkania-dla-pracownikow-ID4eJ8r",
     "price": 700,
     "area": 2500,
@@ -20508,7 +20508,7 @@ otodom_data=[
   {
     "id": "otodom:62565484",
     "title": "Apartament 100m2 z tarasem w USTCE wysoki standard",
-    "location": "ustka, s\u0142upski",
+    "location": "ustka",
     "url": "https://www.otodom.pl/pl/oferta/apartament-100m2-z-tarasem-w-ustce-wysoki-standard-ID4ev8I",
     "price": 8500,
     "area": 100,
@@ -21108,7 +21108,7 @@ otodom_data=[
   {
     "id": "otodom:62132501",
     "title": "ApartDomek 40m2 z dzia\u0142k\u0105, tarasem - sierpie\u0144+odX",
-    "location": "stegna",
+    "location": "nowodworski, stegna",
     "url": "https://www.otodom.pl/pl/oferta/apartdomek-40m2-z-dzialka-tarasem-sierpien-odx-ID4cHw7",
     "price": 1999,
     "area": 40,
@@ -22172,7 +22172,7 @@ otodom_data=[
   {
     "id": "otodom:60878779",
     "title": "Dwupoziomowy apartament 150m2 z widokiem na port",
-    "location": "ustka",
+    "location": "ustka, s\u0142upski",
     "url": "https://www.otodom.pl/pl/oferta/dwupoziomowy-apartament-150m2-z-widokiem-na-port-ID47rlN",
     "price": 9000,
     "area": 150,
@@ -22762,7 +22762,7 @@ otodom_data=[
   {
     "id": "otodom:63366463",
     "title": "Dom 3o minut od lotniska, cisza i infrastruktura",
-    "location": "przodkowo, kartuski",
+    "location": "przodkowo",
     "url": "https://www.otodom.pl/pl/oferta/dom-3o-minut-od-lotniska-cisza-i-infrastruktura-ID4hSwJ",
     "price": 7000,
     "area": 244,
@@ -22993,7 +22993,7 @@ otodom_data=[
   {
     "id": "otodom:63360017",
     "title": "Dom Pog\u00f3rze Ogr\u00f3d Kominek",
-    "location": "pog\u00f3rze, pucki, ul. piotra dunina",
+    "location": "pog\u00f3rze, ul. piotra dunina",
     "url": "https://www.otodom.pl/pl/oferta/dom-pogorze-ogrod-kominek-ID4hQPL",
     "price": 6500,
     "area": 138.6,
@@ -23507,7 +23507,7 @@ otodom_data=[
   {
     "id": "otodom:63335042",
     "title": "Na wynajem dom z gara\u017cem i ogr\u00f3dkiem 160m2, Rumia",
-    "location": "rumia, wejherowski",
+    "location": "rumia",
     "url": "https://www.otodom.pl/pl/oferta/na-wynajem-dom-z-garazem-i-ogrodkiem-160m2-rumia-ID4hKkV",
     "price": 6900,
     "area": 160,
@@ -23713,7 +23713,7 @@ otodom_data=[
   {
     "id": "otodom:63328309",
     "title": "Dom Dla Pracownik\u00f3w Lub Firmy 200 M2 - Pruszcz Gda",
-    "location": "\u0142\u0119gowo",
+    "location": "gda\u0144ski, \u0142\u0119gowo",
     "url": "https://www.otodom.pl/pl/oferta/dom-dla-pracownikow-lub-firmy-200-m2-pruszcz-gda-ID4hIAl",
     "price": 7000,
     "area": 300,
@@ -23742,7 +23742,7 @@ otodom_data=[
   {
     "id": "otodom:63293282",
     "title": "Banino dom do zamieszkania lub na siedzib\u0119 firmy",
-    "location": "banino, kartuski, raka",
+    "location": "banino, raka",
     "url": "https://www.otodom.pl/pl/oferta/banino-dom-do-zamieszkania-lub-na-siedzibe-firmy-ID4hzto",
     "price": 8000,
     "area": 250,
@@ -23878,7 +23878,7 @@ otodom_data=[
   {
     "id": "otodom:63320234",
     "title": "Funkcjonalny dom w\u015br\u00f3d zieleni - Orle",
-    "location": "orle, ul. mi\u0142a",
+    "location": "wejherowski, orle, ul. mi\u0142a",
     "url": "https://www.otodom.pl/pl/oferta/funkcjonalny-dom-wsrod-zieleni-orle-ID4hGu6",
     "price": 3200,
     "area": 64.44,
@@ -23941,7 +23941,7 @@ otodom_data=[
   {
     "id": "otodom:63315468",
     "title": "W tym domu na pewno zim\u0105 b\u0119dzie ciep\u0142o!",
-    "location": "wejherowo, wejherowski",
+    "location": "wejherowo",
     "url": "https://www.otodom.pl/pl/oferta/w-tym-domu-na-pewno-zima-bedzie-cieplo-ID4hFfe",
     "price": 6500,
     "area": 180,
@@ -24137,7 +24137,7 @@ otodom_data=[
   {
     "id": "otodom:63281452",
     "title": "Nad samym morzem O\u015brodek Wypoczynkowy na 5000 m2",
-    "location": "pucki, nowa 44, karwia",
+    "location": "nowa 44, karwia",
     "url": "https://www.otodom.pl/pl/oferta/nad-samym-morzem-osrodek-wypoczynkowy-na-5000-m2-ID4hvoA",
     "price": 2700,
     "area": 600,
@@ -24395,7 +24395,7 @@ otodom_data=[
   {
     "id": "otodom:63262425",
     "title": "Wynajm\u0119 nowy, bezczynszowy dom z gara\u017cem!",
-    "location": "starogard gda\u0144ski",
+    "location": "starogard gda\u0144ski, starogardzki",
     "url": "https://www.otodom.pl/pl/oferta/wynajme-nowy-bezczynszowy-dom-z-garazem-ID4hrrH",
     "price": 3500,
     "area": 137.6,
@@ -24504,7 +24504,7 @@ otodom_data=[
   {
     "id": "otodom:63229516",
     "title": "Dom z widokiem na morze i las w Kosakowie",
-    "location": "pucki, kosakowo",
+    "location": "kosakowo",
     "url": "https://www.otodom.pl/pl/oferta/dom-z-widokiem-na-morze-i-las-w-kosakowie-ID4hiSU",
     "price": 3500,
     "area": 75,
@@ -24630,7 +24630,7 @@ otodom_data=[
   {
     "id": "otodom:63196126",
     "title": "Pi\u0119kny dom fotowoltaik\u0105.",
-    "location": "rumia, wejherowski, zawiszy czarnego",
+    "location": "rumia, zawiszy czarnego",
     "url": "https://www.otodom.pl/pl/oferta/piekny-dom-fotowoltaika-ID4hacm",
     "price": 6000,
     "area": 180,
@@ -24658,7 +24658,7 @@ otodom_data=[
   {
     "id": "otodom:63182409",
     "title": "Uroczy dom, na du\u017cej dzia\u0142ce o pow. 1655m2",
-    "location": "orle, weso\u0142a",
+    "location": "wejherowski, orle, weso\u0142a",
     "url": "https://www.otodom.pl/pl/oferta/uroczy-dom-na-duzej-dzialce-o-pow-1655m2-ID4h6D7",
     "price": 6900,
     "area": 155,
@@ -24935,7 +24935,7 @@ otodom_data=[
   {
     "id": "otodom:62953565",
     "title": "Nowy dom do wynaj\u0119cia. Bojano",
-    "location": "wejherowski, \u0142\u0105kowa, bojano",
+    "location": "\u0142\u0105kowa, bojano",
     "url": "https://www.otodom.pl/pl/oferta/nowy-dom-do-wynajecia-bojano-ID4g965",
     "price": 6000,
     "area": 131.56,
@@ -25016,7 +25016,7 @@ otodom_data=[
   {
     "id": "otodom:62913843",
     "title": "Nad morzem - Dom na wynajem dla rodziny.",
-    "location": "rybacka, jantar",
+    "location": "nowodworski, rybacka, jantar",
     "url": "https://www.otodom.pl/pl/oferta/nad-morzem-dom-na-wynajem-dla-rodziny-ID4fYLp",
     "price": 12000,
     "area": 160,

@@ -1,66 +1,71 @@
 olx_data=[
   {
-    "id": "olx:773047768",
-    "title": "Wynajem mieszkania przed remontem",
-    "location": "gdynia, \u015br\u00f3dmie\u015bcie",
-    "url": "https://www.olx.pl/d/oferta/wynajem-mieszkania-przed-remontem-CID3-IDQjD2o.html",
-    "price": 1000,
-    "rent": "1000",
-    "area": "88",
-    "rooms": "4",
+    "id": "olx:771872932",
+    "title": "Mieszkanie Gda\u0144sk Wrzeszcz, ul. Ja\u015bkowa Dolina 73",
+    "location": "gda\u0144sk, wrzeszcz",
+    "url": "https://www.olx.pl/d/oferta/mieszkanie-gdansk-wrzeszcz-ul-jaskowa-dolina-73-CID3-IDQeHpq.html",
+    "price": 4400,
+    "rent": "900",
+    "area": "52",
+    "rooms": "3",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/24hjq92dwvc1-PL/image;s=1500x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/mq52fv1kfu822-PL/image;s=1500x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/8w8fcog26jgw2-PL/image;s=1500x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/5ssi7mt9hdrq-PL/image;s=1500x2000"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ftdhhaoqtpd9-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/2dfbfxvwv2cv2-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/56zjhshityi12-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/t6zdxvccgotl1-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/kc3nywa80xuf3-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/pruu0h00vfjh2-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/3d0xz3dw64372-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/uc49aw0bipsk2-PL/image;s=3024x4032"
     ],
     "source": "olx",
-    "date": "2022-08-04T13:19:27+02:00",
+    "date": "2022-07-29T19:03:33+02:00",
     "is_house": false
   },
   {
-    "id": "olx:773104299",
-    "title": "Mieszkanie do wynaj\u0119cia",
-    "location": "cz\u0142uch\u00f3w",
-    "url": "https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-IDQjRKb.html",
-    "price": 1400,
-    "rent": "1",
-    "area": "81",
+    "id": "olx:770412786",
+    "title": "Mieszkanie ul. \u017beglarska",
+    "location": "chojnice",
+    "url": "https://www.olx.pl/d/oferta/mieszkanie-ul-zeglarska-CID3-IDQ8zyG.html",
+    "price": 2000,
+    "rent": "500",
+    "area": "59.5",
     "rooms": "3",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/dl40p6ft9jz92-PL/image;s=4624x3468",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/mybj93n65bh93-PL/image;s=4624x3468",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/q5k5ogj7cgnq1-PL/image;s=2000x1500",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/puckk31sjkvh3-PL/image;s=2000x1500",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/14ltz3e3dilb1-PL/image;s=4624x3468",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/yx15rvur3f901-PL/image;s=4624x3468",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/2bn7m033jbyf3-PL/image;s=4624x3468"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vwu9rj50du6u1-PL/image;s=2000x2667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ceer8lkgzgyy1-PL/image;s=2000x1500",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hkg0witya1012-PL/image;s=2000x1500",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/5hfrfv6zrh0p1-PL/image;s=2000x2667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/fm0uq6pyav2u2-PL/image;s=2000x2667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jof1kw0lptz73-PL/image;s=2000x2667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/rl25yzx1d0fu3-PL/image;s=2000x2667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/z6n5mn1bakh23-PL/image;s=2000x2667"
     ],
     "source": "olx",
-    "date": "2022-08-04T17:37:31+02:00",
+    "date": "2022-07-28T11:20:50+02:00",
     "is_house": false
   },
   {
-    "id": "olx:730589779",
-    "title": "Mieszkanie do wynaj\u0119cia. Rokitki ko\u0142o Tczewa.",
-    "location": "rokitki",
-    "url": "https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-rokitki-kolo-tczewa-CID3-IDNrtM7.html",
-    "price": 1500,
-    "rent": "600",
-    "area": "60",
+    "id": "olx:693558031",
+    "title": "Mieszkanie trzypokojowe z ogr\u00f3dkiem przy ul. Braille'a",
+    "location": "s\u0142upsk",
+    "url": "https://www.olx.pl/d/oferta/mieszkanie-trzypokojowe-z-ogrodkiem-przy-ul-braillea-CID3-IDKV67R.html",
+    "price": 3500,
+    "rent": "300",
+    "area": "74",
     "rooms": "3",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/0mt3hkqptujx-PL/image;s=3264x2448",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/4sho7kauwtht3-PL/image;s=3264x2448",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/igxsrg6c2eso1-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/j833ztq0h1y93-PL/image;s=4032x3024",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/m2wbz8stjsmu2-PL/image;s=4032x3024",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/djq5xceh5l211-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/1p6ucxe5tz692-PL/image;s=4032x3024",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/oox43v6z4pgt3-PL/image;s=4032x3024"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/1tyeq0wrvpow-PL/image;s=1242x931",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/keofeyi2odti2-PL/image;s=1242x699",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/beqp3w2lia321-PL/image;s=1242x931",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/llqyuraa96392-PL/image;s=1242x1656",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/b6hjic72qhas-PL/image;s=1242x931",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/7dkfkrkkslpn1-PL/image;s=1242x931",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/akzun9zvl0cc2-PL/image;s=1242x931",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/nc86bhda1iqn-PL/image;s=1008x567"
     ],
     "source": "olx",
-    "date": "2022-08-03T09:10:25+02:00",
+    "date": "2022-08-02T21:00:19+02:00",
     "is_house": false
   },
   {
@@ -129,6 +134,28 @@ olx_data=[
     "is_house": false
   },
   {
+    "id": "olx:773104299",
+    "title": "Mieszkanie do wynaj\u0119cia",
+    "location": "cz\u0142uch\u00f3w",
+    "url": "https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-IDQjRKb.html",
+    "price": 1400,
+    "rent": "1",
+    "area": "81",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/dl40p6ft9jz92-PL/image;s=4624x3468",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/mybj93n65bh93-PL/image;s=4624x3468",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/q5k5ogj7cgnq1-PL/image;s=2000x1500",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/puckk31sjkvh3-PL/image;s=2000x1500",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/14ltz3e3dilb1-PL/image;s=4624x3468",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/yx15rvur3f901-PL/image;s=4624x3468",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/2bn7m033jbyf3-PL/image;s=4624x3468"
+    ],
+    "source": "olx",
+    "date": "2022-08-04T17:37:31+02:00",
+    "is_house": false
+  },
+  {
     "id": "olx:753869096",
     "title": "Mam do wynaj\u0119cia mieszkanie pszcz\u00f3\u0142ki",
     "location": "pszcz\u00f3\u0142ki",
@@ -188,6 +215,25 @@ olx_data=[
     "is_house": false
   },
   {
+    "id": "olx:773085637",
+    "title": "Apartament do wynaj\u0119cia Gda\u0144sk ul Sucha blisko morza",
+    "location": "gda\u0144sk, letnica",
+    "url": "https://www.olx.pl/d/oferta/apartament-do-wynajecia-gdansk-ul-sucha-blisko-morza-CID3-IDQjMTb.html",
+    "price": 3150,
+    "rent": "1",
+    "area": "60",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ka640ipfwman1-PL/image;s=1512x2016",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/i51bzd1ncs4g1-PL/image;s=1512x2016",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/kteyundpj7bq3-PL/image;s=1512x2016",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jo90drcp40oa-PL/image;s=1512x2016"
+    ],
+    "source": "olx",
+    "date": "2022-08-04T16:10:33+02:00",
+    "is_house": false
+  },
+  {
     "id": "olx:773084253",
     "title": "15 minut od pla\u017cy, 2 balkony, miejsce w hali!",
     "location": "gda\u0144sk",
@@ -241,6 +287,74 @@ olx_data=[
     "is_house": false
   },
   {
+    "id": "olx:768955714",
+    "title": "Apartament na wynajem [200m od pla\u017cy]",
+    "location": "sopot, centrum",
+    "url": "https://www.olx.pl/d/oferta/apartament-na-wynajem-200m-od-plazy-CID3-IDQ2swv.html",
+    "price": 6000,
+    "rent": "1",
+    "area": "120",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ihtxc2cto2gq-PL/image;s=1000x750",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/rmq3ox6avfy31-PL/image;s=1000x750",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/p4hga1nyzlig-PL/image;s=1000x750",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/lpqqtdefsuqw-PL/image;s=1000x750",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/e9skw1j0d3gq1-PL/image;s=1000x750",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/uwfd2e1ojkis-PL/image;s=1000x750",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/zxo8mq278g5h3-PL/image;s=1000x750",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/64n35z8b6oco1-PL/image;s=1000x750"
+    ],
+    "source": "olx",
+    "date": "2022-07-14T17:59:41+02:00",
+    "is_house": false
+  },
+  {
+    "id": "olx:688731437",
+    "title": "Mieszkanie 3 pokoje, 54m2, Chylonia, ul. Gniewska",
+    "location": "gdynia, chylonia",
+    "url": "https://www.olx.pl/d/oferta/mieszkanie-3-pokoje-54m2-chylonia-ul-gniewska-CID3-IDKBQwz.html",
+    "price": 3200,
+    "rent": "800",
+    "area": "54",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xdwp3e6wogzm3-PL/image;s=4608x3456",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/m4pqq00hlq9p3-PL/image;s=4608x3456",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/64l5u7e4cuwb-PL/image;s=4608x3456",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/karwl06vskne3-PL/image;s=4608x3456",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/zy2dydzmgar4-PL/image;s=4608x3456",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8jbz7jxal4aj1-PL/image;s=1800x1350",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/5abg4xhdgkdq2-PL/image;s=1800x1350",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/noluudxzw2p3-PL/image;s=1800x1350"
+    ],
+    "source": "olx",
+    "date": "2022-08-02T16:48:10+02:00",
+    "is_house": false
+  },
+  {
+    "id": "olx:772479752",
+    "title": "Mieszkanie trzypokojowe",
+    "location": "gda\u0144sk, przymorze wielkie",
+    "url": "https://www.olx.pl/d/oferta/mieszkanie-trzypokojowe-CID3-IDQhfgQ.html",
+    "price": 2200,
+    "rent": "700",
+    "area": "54",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/qn95qmvvee913-PL/image;s=768x1024",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jkxj76ixpk5p2-PL/image;s=810x1080",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/7k1a98ihpc5n3-PL/image;s=540x720",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/te6cgpyoh7mk-PL/image;s=528x720",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/gjmqytgd9gv1-PL/image;s=528x720",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/mx95bbp6sfxo1-PL/image;s=720x540",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/y98f8k8nkvnq1-PL/image;s=540x720"
+    ],
+    "source": "olx",
+    "date": "2022-08-01T18:41:20+02:00",
+    "is_house": false
+  },
+  {
     "id": "olx:773083294",
     "title": "3 pokoje w Centrum Gda\u0144ska",
     "location": "gda\u0144sk, \u015br\u00f3dmie\u015bcie",
@@ -289,75 +403,6 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-08-04T15:40:25+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:688731437",
-    "title": "Mieszkanie 3 pokoje, 54m2, Chylonia, ul. Gniewska",
-    "location": "gdynia, chylonia",
-    "url": "https://www.olx.pl/d/oferta/mieszkanie-3-pokoje-54m2-chylonia-ul-gniewska-CID3-IDKBQwz.html",
-    "price": 3200,
-    "rent": "800",
-    "area": "54",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/xdwp3e6wogzm3-PL/image;s=4608x3456",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/m4pqq00hlq9p3-PL/image;s=4608x3456",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/64l5u7e4cuwb-PL/image;s=4608x3456",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/karwl06vskne3-PL/image;s=4608x3456",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/zy2dydzmgar4-PL/image;s=4608x3456",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/8jbz7jxal4aj1-PL/image;s=1800x1350",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/5abg4xhdgkdq2-PL/image;s=1800x1350",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/noluudxzw2p3-PL/image;s=1800x1350"
-    ],
-    "source": "olx",
-    "date": "2022-08-02T16:48:10+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:769225698",
-    "title": "Szukasz noclegu w Gda\u0144sku, mam idealne mieszkanie",
-    "location": "gda\u0144sk, przymorze wielkie",
-    "url": "https://www.olx.pl/d/oferta/szukasz-noclegu-w-gdansku-mam-idealne-mieszkanie-CID3-IDQ3AK6.html",
-    "price": 300,
-    "rent": "300",
-    "area": "60",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/115om43aicw51-PL/image;s=4000x2250",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/6ec59svbtmof3-PL/image;s=4000x2250",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/67rhsyo74k7u2-PL/image;s=4000x2250",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/whbw4upswd8l-PL/image;s=2988x5312",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/56ewolav4mr02-PL/image;s=2988x5312",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/9o4kws8yfqfj1-PL/image;s=2988x5312",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/vkkmdjh5u2nu-PL/image;s=2988x5312",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/18b2jykkjbuc-PL/image;s=2988x5312"
-    ],
-    "source": "olx",
-    "date": "2022-08-03T10:19:36+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:763463338",
-    "title": "Na wynajem MIESZKANIE du\u017ce PREMIUM - Malbork, Rodziewicz\u00f3wny",
-    "location": "malbork",
-    "url": "https://www.olx.pl/d/oferta/na-wynajem-mieszkanie-duze-premium-malbork-rodziewiczowny-CID3-IDPFpGO.html",
-    "price": 4500,
-    "rent": "400",
-    "area": "90",
-    "rooms": "4",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ncbvvpk5z8jc-PL/image;s=1000x583",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/f22pfuplkr3w2-PL/image;s=4032x3024",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/a1ld36x08l2u3-PL/image;s=4032x3024",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/c4om1qsa8g3v3-PL/image;s=4032x3024",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ezujl9yqaxe51-PL/image;s=4032x3024",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/znpqszlfpirj-PL/image;s=4032x3024",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/dz2vjcdzqczr-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/l9wgqajhnucl3-PL/image;s=4032x3024"
-    ],
-    "source": "olx",
-    "date": "2022-08-03T22:52:13+02:00",
     "is_house": false
   },
   {
@@ -482,6 +527,25 @@ olx_data=[
     "is_house": false
   },
   {
+    "id": "olx:773047768",
+    "title": "Wynajem mieszkania przed remontem",
+    "location": "gdynia, \u015br\u00f3dmie\u015bcie",
+    "url": "https://www.olx.pl/d/oferta/wynajem-mieszkania-przed-remontem-CID3-IDQjD2o.html",
+    "price": 1000,
+    "rent": "1000",
+    "area": "88",
+    "rooms": "4",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/24hjq92dwvc1-PL/image;s=1500x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/mq52fv1kfu822-PL/image;s=1500x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8w8fcog26jgw2-PL/image;s=1500x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/5ssi7mt9hdrq-PL/image;s=1500x2000"
+    ],
+    "source": "olx",
+    "date": "2022-08-04T13:19:27+02:00",
+    "is_house": false
+  },
+  {
     "id": "olx:770240674",
     "title": "REZERWACJA-Beniowskiego 1, Przymorze,3 pokoje, balkon, 59 m2",
     "location": "gda\u0144sk, przymorze ma\u0142e",
@@ -525,6 +589,71 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-08-04T12:57:02+02:00",
+    "is_house": false
+  },
+  {
+    "id": "olx:772494926",
+    "title": "Mieszkanie w Wejherowie",
+    "location": "wejherowo",
+    "url": "https://www.olx.pl/d/oferta/mieszkanie-w-wejherowie-CID3-IDQhjdA.html",
+    "price": 2500,
+    "rent": "1",
+    "area": "64",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/l9v851xmlrcx1-PL/image;s=1000x750",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4ntd4j1uq62n1-PL/image;s=1000x750",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/pi5vgvrrrbwj1-PL/image;s=750x1000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ffqtp5yshwf42-PL/image;s=750x1000"
+    ],
+    "source": "olx",
+    "date": "2022-08-01T19:45:12+02:00",
+    "is_house": false
+  },
+  {
+    "id": "olx:769225698",
+    "title": "Szukasz noclegu w Gda\u0144sku, mam idealne mieszkanie",
+    "location": "gda\u0144sk, przymorze wielkie",
+    "url": "https://www.olx.pl/d/oferta/szukasz-noclegu-w-gdansku-mam-idealne-mieszkanie-CID3-IDQ3AK6.html",
+    "price": 300,
+    "rent": "300",
+    "area": "60",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/115om43aicw51-PL/image;s=4000x2250",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/6ec59svbtmof3-PL/image;s=4000x2250",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/67rhsyo74k7u2-PL/image;s=4000x2250",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/whbw4upswd8l-PL/image;s=2988x5312",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/56ewolav4mr02-PL/image;s=2988x5312",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/9o4kws8yfqfj1-PL/image;s=2988x5312",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vkkmdjh5u2nu-PL/image;s=2988x5312",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/18b2jykkjbuc-PL/image;s=2988x5312"
+    ],
+    "source": "olx",
+    "date": "2022-08-03T10:19:36+02:00",
+    "is_house": false
+  },
+  {
+    "id": "olx:772945271",
+    "title": "S\u0142oneczne trzypokojowe mieszkanie z widokiem na morze",
+    "location": "gdynia, pog\u00f3rze",
+    "url": "https://www.olx.pl/d/oferta/sloneczne-trzypokojowe-mieszkanie-z-widokiem-na-morze-CID3-IDQjcnd.html",
+    "price": 2600,
+    "rent": "450",
+    "area": "52",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/9fthtb93sm223-PL/image;s=1920x1083",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/dnddfcs1huxk3-PL/image;s=1920x1083",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/zexv30tcwmum3-PL/image;s=1920x1083",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/to7op29w8q4v2-PL/image;s=1920x1083",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8tviq1gfxx2g-PL/image;s=1920x1083",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/qsd20q2mnw562-PL/image;s=1083x1920",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/0osog3cx8grw2-PL/image;s=1282x1920",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/1yryxnfk1omn1-PL/image;s=1920x1083"
+    ],
+    "source": "olx",
+    "date": "2022-08-03T21:13:11+02:00",
     "is_house": false
   },
   {
@@ -593,71 +722,6 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-08-04T12:04:42+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:772479752",
-    "title": "Mieszkanie trzypokojowe",
-    "location": "gda\u0144sk, przymorze wielkie",
-    "url": "https://www.olx.pl/d/oferta/mieszkanie-trzypokojowe-CID3-IDQhfgQ.html",
-    "price": 2200,
-    "rent": "700",
-    "area": "54",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/qn95qmvvee913-PL/image;s=768x1024",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/jkxj76ixpk5p2-PL/image;s=810x1080",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/7k1a98ihpc5n3-PL/image;s=540x720",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/te6cgpyoh7mk-PL/image;s=528x720",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/gjmqytgd9gv1-PL/image;s=528x720",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/mx95bbp6sfxo1-PL/image;s=720x540",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/y98f8k8nkvnq1-PL/image;s=540x720"
-    ],
-    "source": "olx",
-    "date": "2022-08-01T18:41:20+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:767693809",
-    "title": "Domek w \u0141ebie w \u0142adnej i cichej lokalizacji",
-    "location": "\u0142eba",
-    "url": "https://www.olx.pl/d/oferta/domek-w-lebie-w-ladnej-i-cichej-lokalizacji-CID3-IDPXaed.html",
-    "price": 500,
-    "rent": "500",
-    "area": "45",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/dsvbyvzuwnn73-PL/image;s=639x426",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ffoyyn4362bq-PL/image;s=786x590",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ml42yzka36lh-PL/image;s=786x590",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/t0l3blgehbdc2-PL/image;s=179x128",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/8ia8kx8qmgoi1-PL/image;s=179x150"
-    ],
-    "source": "olx",
-    "date": "2022-08-03T19:08:29+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:772749454",
-    "title": "Mieszkanie 3 pokojowe z miejscem parkingowym w hali, osiedle zamkni\u0119te",
-    "location": "gda\u0144sk, przymorze ma\u0142e",
-    "url": "https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-z-miejscem-parkingowym-w-hali-osiedle-zamkniete-CID3-IDQinqS.html",
-    "price": 5000,
-    "rent": "486",
-    "area": "63",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/4xp57tlc1ttu3-PL/image;s=1599x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/goz9xvco928i3-PL/image;s=1375x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/cqsq5dyzuync1-PL/image;s=1599x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/bg8v2dl3ldfu1-PL/image;s=1157x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/n4iq2fe3zqs13-PL/image;s=1417x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/tmnqfsf9m1202-PL/image;s=1599x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/lp97merb865i2-PL/image;s=1599x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/9z3wtr699zme1-PL/image;s=1599x1200"
-    ],
-    "source": "olx",
-    "date": "2022-08-02T23:03:17+02:00",
     "is_house": false
   },
   {
@@ -811,6 +875,74 @@ olx_data=[
     "is_house": false
   },
   {
+    "id": "olx:625772608",
+    "title": "Nowe mieszkanie do wynaj\u0119cia",
+    "location": "czersk",
+    "url": "https://www.olx.pl/d/oferta/nowe-mieszkanie-do-wynajecia-CID3-IDGlG2A.html",
+    "price": 2100,
+    "rent": "2000",
+    "area": "150",
+    "rooms": "4",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/18u4jw55ty1i-PL/image;s=756x1008",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/3pormd2yf9222-PL/image;s=780x1040",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/haocx233oyq71-PL/image;s=1040x780",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/w2bhqycwh30v-PL/image;s=756x1008",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/m4jsgrko4k1k3-PL/image;s=780x1040",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/m89a2g760s8a1-PL/image;s=780x1040",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/mdlpoj7xrv4c2-PL/image;s=780x1040"
+    ],
+    "source": "olx",
+    "date": "2022-08-02T21:24:41+02:00",
+    "is_house": false
+  },
+  {
+    "id": "olx:772855020",
+    "title": "Przestronne mieszkanie 3pok. na osiedlu Bocianie Wzg\u00f3rze",
+    "location": "gda\u0144sk, che\u0142m z dzielnic\u0105 gda\u0144sk po\u0142udnie",
+    "url": "https://www.olx.pl/d/oferta/przestronne-mieszkanie-3pok-na-osiedlu-bocianie-wzgorze-CID3-IDQiOTy.html",
+    "price": 3500,
+    "rent": "600",
+    "area": "70.5",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tk1ajeqsfogp2-PL/image;s=1000x667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hdmywma39x2f3-PL/image;s=1000x667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/0a71apd699zz2-PL/image;s=1000x667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/2jin0w2q62592-PL/image;s=1000x667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/si4vwzmvplf03-PL/image;s=1000x667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/v38dmg41uz1u2-PL/image;s=1000x667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/yy9ceda0484f2-PL/image;s=1000x667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/761jms7p8smq1-PL/image;s=1000x667"
+    ],
+    "source": "olx",
+    "date": "2022-08-03T14:37:36+02:00",
+    "is_house": false
+  },
+  {
+    "id": "olx:693273446",
+    "title": "Mieszkanie 4-osobne pokoje 80m2 Gda\u0144sk Przymorze ul. Obr. Wybrze\u017ca 3C",
+    "location": "gda\u0144sk, przymorze wielkie",
+    "url": "https://www.olx.pl/d/oferta/mieszkanie-4-osobne-pokoje-80m2-gdansk-przymorze-ul-obr-wybrzeza-3c-CID3-IDKUU5M.html",
+    "price": 4200,
+    "rent": "600",
+    "area": "76",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/nup0qa7nywjx1-PL/image;s=3264x2448",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ipslptfbhnwm-PL/image;s=3264x1468",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/9pt1hhy9a6g12-PL/image;s=3264x2448",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/05m5jgdwqlqv3-PL/image;s=3264x1836",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/cj6yn4e4utml-PL/image;s=3264x2448",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ign9rh643erc-PL/image;s=3264x1836",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4diam2j2sjja-PL/image;s=3264x1836",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/nof5fnpijh4i-PL/image;s=3264x1836"
+    ],
+    "source": "olx",
+    "date": "2022-08-03T17:32:20+02:00",
+    "is_house": false
+  },
+  {
     "id": "olx:690240763",
     "title": "Mieszkanie 3 pokojowe Ul. Jana Sobieskiego",
     "location": "sopot, dolny sopot",
@@ -873,71 +1005,6 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-08-04T07:26:13+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:768955714",
-    "title": "Apartament na wynajem [200m od pla\u017cy]",
-    "location": "sopot, centrum",
-    "url": "https://www.olx.pl/d/oferta/apartament-na-wynajem-200m-od-plazy-CID3-IDQ2swv.html",
-    "price": 6000,
-    "rent": "1",
-    "area": "120",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ihtxc2cto2gq-PL/image;s=1000x750",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/rmq3ox6avfy31-PL/image;s=1000x750",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/p4hga1nyzlig-PL/image;s=1000x750",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/lpqqtdefsuqw-PL/image;s=1000x750",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/e9skw1j0d3gq1-PL/image;s=1000x750",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/uwfd2e1ojkis-PL/image;s=1000x750",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/zxo8mq278g5h3-PL/image;s=1000x750",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/64n35z8b6oco1-PL/image;s=1000x750"
-    ],
-    "source": "olx",
-    "date": "2022-07-14T17:59:41+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:771872932",
-    "title": "Mieszkanie Gda\u0144sk Wrzeszcz, ul. Ja\u015bkowa Dolina 73",
-    "location": "gda\u0144sk, wrzeszcz",
-    "url": "https://www.olx.pl/d/oferta/mieszkanie-gdansk-wrzeszcz-ul-jaskowa-dolina-73-CID3-IDQeHpq.html",
-    "price": 4400,
-    "rent": "900",
-    "area": "52",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ftdhhaoqtpd9-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/2dfbfxvwv2cv2-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/56zjhshityi12-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/t6zdxvccgotl1-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/kc3nywa80xuf3-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/pruu0h00vfjh2-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/3d0xz3dw64372-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/uc49aw0bipsk2-PL/image;s=3024x4032"
-    ],
-    "source": "olx",
-    "date": "2022-07-29T19:03:33+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:773085637",
-    "title": "Apartament do wynaj\u0119cia Gda\u0144sk ul Sucha blisko morza",
-    "location": "gda\u0144sk, letnica",
-    "url": "https://www.olx.pl/d/oferta/apartament-do-wynajecia-gdansk-ul-sucha-blisko-morza-CID3-IDQjMTb.html",
-    "price": 3150,
-    "rent": "1",
-    "area": "60",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ka640ipfwman1-PL/image;s=1512x2016",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/i51bzd1ncs4g1-PL/image;s=1512x2016",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/kteyundpj7bq3-PL/image;s=1512x2016",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/jo90drcp40oa-PL/image;s=1512x2016"
-    ],
-    "source": "olx",
-    "date": "2022-08-04T16:10:33+02:00",
     "is_house": false
   },
   {
@@ -1041,6 +1108,29 @@ olx_data=[
     "is_house": false
   },
   {
+    "id": "olx:763463338",
+    "title": "Na wynajem MIESZKANIE du\u017ce PREMIUM - Malbork, Rodziewicz\u00f3wny",
+    "location": "malbork",
+    "url": "https://www.olx.pl/d/oferta/na-wynajem-mieszkanie-duze-premium-malbork-rodziewiczowny-CID3-IDPFpGO.html",
+    "price": 4500,
+    "rent": "400",
+    "area": "90",
+    "rooms": "4",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ncbvvpk5z8jc-PL/image;s=1000x583",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/f22pfuplkr3w2-PL/image;s=4032x3024",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/a1ld36x08l2u3-PL/image;s=4032x3024",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/c4om1qsa8g3v3-PL/image;s=4032x3024",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ezujl9yqaxe51-PL/image;s=4032x3024",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/znpqszlfpirj-PL/image;s=4032x3024",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/dz2vjcdzqczr-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/l9wgqajhnucl3-PL/image;s=4032x3024"
+    ],
+    "source": "olx",
+    "date": "2022-08-03T22:52:13+02:00",
+    "is_house": false
+  },
+  {
     "id": "olx:772956014",
     "title": "3 pok Neptun Park wynajem na min 1 rok!",
     "location": "gda\u0144sk",
@@ -1069,26 +1159,23 @@ olx_data=[
     "is_house": false
   },
   {
-    "id": "olx:772945271",
-    "title": "S\u0142oneczne trzypokojowe mieszkanie z widokiem na morze",
-    "location": "gdynia, pog\u00f3rze",
-    "url": "https://www.olx.pl/d/oferta/sloneczne-trzypokojowe-mieszkanie-z-widokiem-na-morze-CID3-IDQjcnd.html",
-    "price": 2600,
-    "rent": "450",
-    "area": "52",
+    "id": "olx:767693809",
+    "title": "Domek w \u0141ebie w \u0142adnej i cichej lokalizacji",
+    "location": "\u0142eba",
+    "url": "https://www.olx.pl/d/oferta/domek-w-lebie-w-ladnej-i-cichej-lokalizacji-CID3-IDPXaed.html",
+    "price": 500,
+    "rent": "500",
+    "area": "45",
     "rooms": "3",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/9fthtb93sm223-PL/image;s=1920x1083",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/dnddfcs1huxk3-PL/image;s=1920x1083",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/zexv30tcwmum3-PL/image;s=1920x1083",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/to7op29w8q4v2-PL/image;s=1920x1083",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/8tviq1gfxx2g-PL/image;s=1920x1083",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/qsd20q2mnw562-PL/image;s=1083x1920",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/0osog3cx8grw2-PL/image;s=1282x1920",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/1yryxnfk1omn1-PL/image;s=1920x1083"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/dsvbyvzuwnn73-PL/image;s=639x426",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ffoyyn4362bq-PL/image;s=786x590",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ml42yzka36lh-PL/image;s=786x590",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/t0l3blgehbdc2-PL/image;s=179x128",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8ia8kx8qmgoi1-PL/image;s=179x150"
     ],
     "source": "olx",
-    "date": "2022-08-03T21:13:11+02:00",
+    "date": "2022-08-03T19:08:29+02:00",
     "is_house": false
   },
   {
@@ -1299,6 +1386,22 @@ olx_data=[
     "is_house": false
   },
   {
+    "id": "olx:678604342",
+    "title": "Wynajm\u0119 mieszkanie 3-pokojowe, po remoncie, Bezczynszowe, pracownicze",
+    "location": "czersk",
+    "url": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-3-pokojowe-po-remoncie-bezczynszowe-pracownicze-CID3-IDJWlZk.html",
+    "price": 1800,
+    "rent": "1",
+    "area": "60",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/gty03yvvoyrk-PL/image;s=1200x1600"
+    ],
+    "source": "olx",
+    "date": "2022-08-03T18:04:42+02:00",
+    "is_house": false
+  },
+  {
     "id": "olx:684790325",
     "title": "Mieszkanie 3 pokojowe w centrum Gdyni",
     "location": "gdynia, kamienna g\u00f3ra",
@@ -1322,42 +1425,48 @@ olx_data=[
     "is_house": false
   },
   {
-    "id": "olx:678604342",
-    "title": "Wynajm\u0119 mieszkanie 3-pokojowe, po remoncie, Bezczynszowe, pracownicze",
-    "location": "czersk",
-    "url": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-3-pokojowe-po-remoncie-bezczynszowe-pracownicze-CID3-IDJWlZk.html",
-    "price": 1800,
-    "rent": "1",
-    "area": "60",
+    "id": "olx:764136482",
+    "title": "Mieszkanie 3 pokoje 54m Przymorze Jagiello\u0144ska p. I z IV po remoncie",
+    "location": "gda\u0144sk, przymorze wielkie",
+    "url": "https://www.olx.pl/d/oferta/mieszkanie-3-pokoje-54m-przymorze-jagiellonska-p-i-z-iv-po-remoncie-CID3-IDPIeNY.html",
+    "price": 3750,
+    "rent": "520",
+    "area": "54",
     "rooms": "3",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/gty03yvvoyrk-PL/image;s=1200x1600"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/qrmuqvw7rw5o-PL/image;s=3468x4624",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jmq5diosk3af2-PL/image;s=3468x4624",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/lyy5ldtt10l93-PL/image;s=3468x4624",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/zq3m1kc845iw2-PL/image;s=3468x4624",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vp74yjovbji2-PL/image;s=3468x4624",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/6r7i3okoqorb2-PL/image;s=3468x4624",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/m026qkqaqti82-PL/image;s=3468x4624",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/9iryg4niub2n-PL/image;s=3468x4624"
     ],
     "source": "olx",
-    "date": "2022-08-03T18:04:42+02:00",
+    "date": "2022-08-02T16:16:14+02:00",
     "is_house": false
   },
   {
-    "id": "olx:693273446",
-    "title": "Mieszkanie 4-osobne pokoje 80m2 Gda\u0144sk Przymorze ul. Obr. Wybrze\u017ca 3C",
-    "location": "gda\u0144sk, przymorze wielkie",
-    "url": "https://www.olx.pl/d/oferta/mieszkanie-4-osobne-pokoje-80m2-gdansk-przymorze-ul-obr-wybrzeza-3c-CID3-IDKUU5M.html",
-    "price": 4200,
-    "rent": "600",
-    "area": "76",
+    "id": "olx:613515376",
+    "title": "Wynajm\u0119 mieszkanie 3 pokoje w Gda\u0144sku dla student\u00f3w, Gda\u0144sk",
+    "location": "gda\u0144sk, brze\u017ano",
+    "url": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-3-pokoje-w-gdansku-dla-studentow-gdansk-CID3-IDFvfni.html",
+    "price": 3100,
+    "rent": "1000",
+    "area": "60",
     "rooms": "3",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/nup0qa7nywjx1-PL/image;s=3264x2448",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ipslptfbhnwm-PL/image;s=3264x1468",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/9pt1hhy9a6g12-PL/image;s=3264x2448",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/05m5jgdwqlqv3-PL/image;s=3264x1836",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/cj6yn4e4utml-PL/image;s=3264x2448",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ign9rh643erc-PL/image;s=3264x1836",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/4diam2j2sjja-PL/image;s=3264x1836",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/nof5fnpijh4i-PL/image;s=3264x1836"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/6ohv6m0n4uoa1-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/i0fxyi11droe2-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/c5n6uzgch4pi1-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/mfqmr4fumv5h2-PL/image;s=525x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ter7dr84gzx61-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/p2e1s3upje8c1-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/dczc3wpayltg3-PL/image;s=2000x1414"
     ],
     "source": "olx",
-    "date": "2022-08-03T17:32:20+02:00",
+    "date": "2022-08-02T22:32:28+02:00",
     "is_house": false
   },
   {
@@ -1378,9 +1487,9 @@ olx_data=[
   },
   {
     "id": "olx:765007475",
-    "title": "Mieszkanie bezczynszowe Gda\u0144sk Osowa",
+    "title": "Mieszkanie bezczynszowe z gara\u017cem Gda\u0144sk Osowa",
     "location": "gda\u0144sk, osowa",
-    "url": "https://www.olx.pl/d/oferta/mieszkanie-bezczynszowe-gdansk-osowa-CID3-IDPLTof.html",
+    "url": "https://www.olx.pl/d/oferta/mieszkanie-bezczynszowe-z-garazem-gdansk-osowa-CID3-IDPLTof.html",
     "price": 4200,
     "rent": "150",
     "area": "100",
@@ -1513,70 +1622,6 @@ olx_data=[
     "is_house": false
   },
   {
-    "id": "olx:625772608",
-    "title": "Nowe mieszkanie do wynaj\u0119cia",
-    "location": "czersk",
-    "url": "https://www.olx.pl/d/oferta/nowe-mieszkanie-do-wynajecia-CID3-IDGlG2A.html",
-    "price": 2100,
-    "rent": "2000",
-    "area": "150",
-    "rooms": "4",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/18u4jw55ty1i-PL/image;s=756x1008",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/3pormd2yf9222-PL/image;s=780x1040",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/haocx233oyq71-PL/image;s=1040x780",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/w2bhqycwh30v-PL/image;s=756x1008",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/m4jsgrko4k1k3-PL/image;s=780x1040",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/m89a2g760s8a1-PL/image;s=780x1040",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/mdlpoj7xrv4c2-PL/image;s=780x1040"
-    ],
-    "source": "olx",
-    "date": "2022-08-02T21:24:41+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:772494926",
-    "title": "Mieszkanie w Wejherowie",
-    "location": "wejherowo",
-    "url": "https://www.olx.pl/d/oferta/mieszkanie-w-wejherowie-CID3-IDQhjdA.html",
-    "price": 2500,
-    "rent": "1",
-    "area": "64",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/l9v851xmlrcx1-PL/image;s=1000x750",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/4ntd4j1uq62n1-PL/image;s=1000x750",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/pi5vgvrrrbwj1-PL/image;s=750x1000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ffqtp5yshwf42-PL/image;s=750x1000"
-    ],
-    "source": "olx",
-    "date": "2022-08-01T19:45:12+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:772855020",
-    "title": "Przestronne mieszkanie 3pok. na osiedlu Bocianie Wzg\u00f3rze",
-    "location": "gda\u0144sk, che\u0142m z dzielnic\u0105 gda\u0144sk po\u0142udnie",
-    "url": "https://www.olx.pl/d/oferta/przestronne-mieszkanie-3pok-na-osiedlu-bocianie-wzgorze-CID3-IDQiOTy.html",
-    "price": 3500,
-    "rent": "600",
-    "area": "70.5",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/tk1ajeqsfogp2-PL/image;s=1000x667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/hdmywma39x2f3-PL/image;s=1000x667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/0a71apd699zz2-PL/image;s=1000x667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/2jin0w2q62592-PL/image;s=1000x667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/si4vwzmvplf03-PL/image;s=1000x667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/v38dmg41uz1u2-PL/image;s=1000x667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/yy9ceda0484f2-PL/image;s=1000x667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/761jms7p8smq1-PL/image;s=1000x667"
-    ],
-    "source": "olx",
-    "date": "2022-08-03T14:37:36+02:00",
-    "is_house": false
-  },
-  {
     "id": "olx:772774432",
     "title": "Gda\u0144sk \u017babianka 66 m2, 3 pokoje, balkon, 10 pi\u0119tro",
     "location": "gda\u0144sk",
@@ -1674,6 +1719,29 @@ olx_data=[
     "is_house": false
   },
   {
+    "id": "olx:772753825",
+    "title": "Przestronne mieszkanie 72m2 S\u0142oneczna Morena",
+    "location": "gda\u0144sk, piecki-migowo",
+    "url": "https://www.olx.pl/d/oferta/przestronne-mieszkanie-72m2-sloneczna-morena-CID3-IDQiozn.html",
+    "price": 3200,
+    "rent": "570",
+    "area": "72",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/wqr15qbuq73k3-PL/image;s=1600x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/v680ok3p136n3-PL/image;s=1600x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/w4vqph2ijmz13-PL/image;s=1500x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tb0fieohtwtn2-PL/image;s=2000x1500",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/79j8snr698pv3-PL/image;s=1500x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/1e0higykc03h3-PL/image;s=1500x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/3dt0b30jwmf42-PL/image;s=2000x1500",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/aifvaqumavux-PL/image;s=2000x1500"
+    ],
+    "source": "olx",
+    "date": "2022-08-02T23:51:45+02:00",
+    "is_house": false
+  },
+  {
     "id": "olx:772751542",
     "title": "Mieszkanie 3 pokoje",
     "location": "tczew",
@@ -1697,6 +1765,29 @@ olx_data=[
     "is_house": false
   },
   {
+    "id": "olx:772749454",
+    "title": "Mieszkanie 3 pokojowe z miejscem parkingowym w hali, osiedle zamkni\u0119te",
+    "location": "gda\u0144sk, przymorze ma\u0142e",
+    "url": "https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-z-miejscem-parkingowym-w-hali-osiedle-zamkniete-CID3-IDQinqS.html",
+    "price": 5000,
+    "rent": "486",
+    "area": "63",
+    "rooms": "3",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4xp57tlc1ttu3-PL/image;s=1599x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/goz9xvco928i3-PL/image;s=1375x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/cqsq5dyzuync1-PL/image;s=1599x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/bg8v2dl3ldfu1-PL/image;s=1157x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/n4iq2fe3zqs13-PL/image;s=1417x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tmnqfsf9m1202-PL/image;s=1599x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/lp97merb865i2-PL/image;s=1599x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/9z3wtr699zme1-PL/image;s=1599x1200"
+    ],
+    "source": "olx",
+    "date": "2022-08-02T23:03:17+02:00",
+    "is_house": false
+  },
+  {
     "id": "olx:772745868",
     "title": "Przestronne mieszkanie 89 m.kw, 3 pokoje, osobna kuchnia, \u0141okietka",
     "location": "l\u0119bork",
@@ -1717,28 +1808,6 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-08-02T22:36:40+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:613515376",
-    "title": "Wynajm\u0119 mieszkanie 3 pokoje w Gda\u0144sku dla student\u00f3w, Gda\u0144sk",
-    "location": "gda\u0144sk, brze\u017ano",
-    "url": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-3-pokoje-w-gdansku-dla-studentow-gdansk-CID3-IDFvfni.html",
-    "price": 3100,
-    "rent": "1000",
-    "area": "60",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/6ohv6m0n4uoa1-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/i0fxyi11droe2-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/c5n6uzgch4pi1-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/mfqmr4fumv5h2-PL/image;s=525x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ter7dr84gzx61-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/p2e1s3upje8c1-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/dczc3wpayltg3-PL/image;s=2000x1414"
-    ],
-    "source": "olx",
-    "date": "2022-08-02T22:32:28+02:00",
     "is_house": false
   },
   {
@@ -1798,72 +1867,26 @@ olx_data=[
     "is_house": false
   },
   {
-    "id": "olx:770412786",
-    "title": "Mieszkanie ul. \u017beglarska",
-    "location": "chojnice",
-    "url": "https://www.olx.pl/d/oferta/mieszkanie-ul-zeglarska-CID3-IDQ8zyG.html",
-    "price": 2000,
-    "rent": "500",
-    "area": "59.5",
+    "id": "olx:730589779",
+    "title": "Mieszkanie do wynaj\u0119cia. Rokitki ko\u0142o Tczewa.",
+    "location": "rokitki",
+    "url": "https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-rokitki-kolo-tczewa-CID3-IDNrtM7.html",
+    "price": 1500,
+    "rent": "600",
+    "area": "60",
     "rooms": "3",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/vwu9rj50du6u1-PL/image;s=2000x2667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ceer8lkgzgyy1-PL/image;s=2000x1500",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/hkg0witya1012-PL/image;s=2000x1500",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/5hfrfv6zrh0p1-PL/image;s=2000x2667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/fm0uq6pyav2u2-PL/image;s=2000x2667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/jof1kw0lptz73-PL/image;s=2000x2667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/rl25yzx1d0fu3-PL/image;s=2000x2667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/z6n5mn1bakh23-PL/image;s=2000x2667"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/0mt3hkqptujx-PL/image;s=3264x2448",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4sho7kauwtht3-PL/image;s=3264x2448",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/igxsrg6c2eso1-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/j833ztq0h1y93-PL/image;s=4032x3024",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/m2wbz8stjsmu2-PL/image;s=4032x3024",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/djq5xceh5l211-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/1p6ucxe5tz692-PL/image;s=4032x3024",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/oox43v6z4pgt3-PL/image;s=4032x3024"
     ],
     "source": "olx",
-    "date": "2022-07-28T11:20:50+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:764136482",
-    "title": "Mieszkanie 3 pokoje 54m Przymorze Jagiello\u0144ska p. I z IV po remoncie",
-    "location": "gda\u0144sk, przymorze wielkie",
-    "url": "https://www.olx.pl/d/oferta/mieszkanie-3-pokoje-54m-przymorze-jagiellonska-p-i-z-iv-po-remoncie-CID3-IDPIeNY.html",
-    "price": 3750,
-    "rent": "520",
-    "area": "54",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/qrmuqvw7rw5o-PL/image;s=3468x4624",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/jmq5diosk3af2-PL/image;s=3468x4624",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/lyy5ldtt10l93-PL/image;s=3468x4624",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/zq3m1kc845iw2-PL/image;s=3468x4624",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/vp74yjovbji2-PL/image;s=3468x4624",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/6r7i3okoqorb2-PL/image;s=3468x4624",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/m026qkqaqti82-PL/image;s=3468x4624",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/9iryg4niub2n-PL/image;s=3468x4624"
-    ],
-    "source": "olx",
-    "date": "2022-08-02T16:16:14+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:772753825",
-    "title": "Przestronne mieszkanie 72m2 S\u0142oneczna Morena",
-    "location": "gda\u0144sk, piecki-migowo",
-    "url": "https://www.olx.pl/d/oferta/przestronne-mieszkanie-72m2-sloneczna-morena-CID3-IDQiozn.html",
-    "price": 3200,
-    "rent": "570",
-    "area": "72",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/wqr15qbuq73k3-PL/image;s=1600x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/v680ok3p136n3-PL/image;s=1600x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/w4vqph2ijmz13-PL/image;s=1500x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/tb0fieohtwtn2-PL/image;s=2000x1500",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/79j8snr698pv3-PL/image;s=1500x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/1e0higykc03h3-PL/image;s=1500x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/3dt0b30jwmf42-PL/image;s=2000x1500",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/aifvaqumavux-PL/image;s=2000x1500"
-    ],
-    "source": "olx",
-    "date": "2022-08-02T23:51:45+02:00",
+    "date": "2022-08-03T09:10:25+02:00",
     "is_house": false
   },
   {
@@ -1909,29 +1932,6 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-08-02T21:40:46+02:00",
-    "is_house": false
-  },
-  {
-    "id": "olx:693558031",
-    "title": "Mieszkanie trzypokojowe z ogr\u00f3dkiem przy ul. Braille'a",
-    "location": "s\u0142upsk",
-    "url": "https://www.olx.pl/d/oferta/mieszkanie-trzypokojowe-z-ogrodkiem-przy-ul-braillea-CID3-IDKV67R.html",
-    "price": 3500,
-    "rent": "300",
-    "area": "74",
-    "rooms": "3",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/1tyeq0wrvpow-PL/image;s=1242x931",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/keofeyi2odti2-PL/image;s=1242x699",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/beqp3w2lia321-PL/image;s=1242x931",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/llqyuraa96392-PL/image;s=1242x1656",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/b6hjic72qhas-PL/image;s=1242x931",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/7dkfkrkkslpn1-PL/image;s=1242x931",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/akzun9zvl0cc2-PL/image;s=1242x931",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/nc86bhda1iqn-PL/image;s=1008x567"
-    ],
-    "source": "olx",
-    "date": "2022-08-02T21:00:19+02:00",
     "is_house": false
   },
   {
@@ -10409,47 +10409,47 @@ olx_data=[
     "is_house": false
   },
   {
-    "id": "olx:772954846",
-    "title": "Wynajm\u0119  Dom z Ogrodem",
-    "location": "kartuzy",
-    "url": "https://www.olx.pl/d/oferta/wynajme-dom-z-ogrodem-CID3-IDQjeRE.html",
-    "price": 3300,
-    "area": "110",
+    "id": "olx:769768667",
+    "title": "Domek letniskowy Kaszuby 250 z\u0142",
+    "location": "\u0142ubiana",
+    "url": "https://www.olx.pl/d/oferta/domek-letniskowy-kaszuby-250-zl-CID3-IDQ5RZF.html",
+    "price": 250,
+    "area": "70",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/z1oo3mb1dfia1-PL/image;s=1500x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/mupkwrv8aoe51-PL/image;s=1288x966",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/d672v1mkvaqm2-PL/image;s=966x1288",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ki8eytgq3f6l-PL/image;s=1288x966",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/zvkgnjp6jm243-PL/image;s=966x1288",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/2i0ii8yvzaj01-PL/image;s=966x1288",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/tpjwrjv12g58-PL/image;s=1288x966",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/k5uyafhwnfm31-PL/image;s=1500x2000"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/04plyu3tu2fz1-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/7tzfdg54kjyv3-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ylsbedp4wpff-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/h1w9ezn7o5wh2-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/q2undts0azur1-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/iqnqu05ti0iv-PL/image;s=2000x2667",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/168yxscdxzx71-PL/image;s=3024x4032",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/yidvnvye2yhi-PL/image;s=3024x4032"
     ],
     "source": "olx",
-    "date": "2022-08-03T22:04:57+02:00",
+    "date": "2022-08-02T16:52:49+02:00",
     "is_house": true
   },
   {
-    "id": "olx:770681849",
-    "title": "Baltic House- ca\u0142oroczne domki na wynajem",
-    "location": "karwia",
-    "url": "https://www.olx.pl/d/oferta/baltic-house-caloroczne-domki-na-wynajem-CID3-IDQ9Hyp.html",
-    "price": 600,
-    "area": "35",
+    "id": "olx:685865221",
+    "title": "Klimatyczny domek nad jeziorem Garczyn ko\u0142o Ko\u015bcierzyny z basenem",
+    "location": "garczyn",
+    "url": "https://www.olx.pl/d/oferta/klimatyczny-domek-nad-jeziorem-garczyn-kolo-koscierzyny-z-basenem-CID3-IDKpOSh.html",
+    "price": 550,
+    "area": "45",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/87ow3hah0okb1-PL/image;s=1000x498",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/hx7mv7csgkee-PL/image;s=1000x750",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/4l7lobp0mqjl-PL/image;s=706x1000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/2lapqik2vama1-PL/image;s=1000x960",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/vf16zuibd82t1-PL/image;s=1000x750",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/j4kq91jptsyr1-PL/image;s=1000x985",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/uaankyipvnru-PL/image;s=750x1000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/i5ql5i5acfph1-PL/image;s=750x1000"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/yfu56sjbkze33-PL/image;s=1008x567",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vivfs37p1at82-PL/image;s=567x1008",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/zyaf0oe0cmgp-PL/image;s=1008x567",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/bthkg48iyq1s-PL/image;s=1152x648",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/37pyao6pyz0w-PL/image;s=1152x648",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/mw9v5d122wkf1-PL/image;s=1152x648",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/wi1qf5xoq7rq2-PL/image;s=1152x648",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/oa8xakz0oy5i2-PL/image;s=1008x567"
     ],
     "source": "olx",
-    "date": "2022-08-01T20:28:18+02:00",
+    "date": "2022-08-04T16:32:34+02:00",
     "is_house": true
   },
   {
@@ -10526,47 +10526,6 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-08-04T18:27:17+02:00",
-    "is_house": true
-  },
-  {
-    "id": "olx:766974791",
-    "title": "Domki nad morzem z \u0142azienk\u0105, aneksem, tv, wi-fi WOLNE TERMINY",
-    "location": "\u0142eba",
-    "url": "https://www.olx.pl/d/oferta/domki-nad-morzem-z-lazienka-aneksem-tv-wi-fi-wolne-terminy-CID3-IDPU9b9.html",
-    "price": 250,
-    "area": "70",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/aasilji4ggv3-PL/image;s=2000x1334",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/n7mtjkmr2u2z2-PL/image;s=3000x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/roa8wvrmkktp3-PL/image;s=3000x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/xp33moesspfa2-PL/image;s=2000x1334",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/grurmvskon1t-PL/image;s=2000x1334",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/dsr3umj99ck53-PL/image;s=2000x1334"
-    ],
-    "source": "olx",
-    "date": "2022-08-04T17:30:05+02:00",
-    "is_house": true
-  },
-  {
-    "id": "olx:753046190",
-    "title": "Willa Patrycja do wynaj\u0119cia - D\u0119bki",
-    "location": "d\u0119bki",
-    "url": "https://www.olx.pl/d/oferta/willa-patrycja-do-wynajecia-debki-CID3-IDOXHIi.html",
-    "price": 900,
-    "area": "87",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/il5m05fapvto1-PL/image;s=1200x900",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/r9kti0zd99md3-PL/image;s=1200x800",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/uqn78ightqbp-PL/image;s=1200x800",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/hr0pttmv4xy03-PL/image;s=1200x800",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/fw1tl7l0mj15-PL/image;s=1200x800",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/jzcasgujbi001-PL/image;s=1200x800",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/kdb07r4ji3me1-PL/image;s=1200x800"
-    ],
-    "source": "olx",
-    "date": "2022-08-04T16:00:15+02:00",
     "is_house": true
   },
   {
@@ -10680,6 +10639,28 @@ olx_data=[
     "is_house": true
   },
   {
+    "id": "olx:733538553",
+    "title": "Kaszuby, las, jezioro,  \u0142\u0105ka,  wakacje w domu z basenem na Kaszubach",
+    "location": "radu\u0144",
+    "url": "https://www.olx.pl/d/oferta/kaszuby-las-jezioro-laka-wakacje-w-domu-z-basenem-na-kaszubach-CID3-IDNDQSZ.html",
+    "price": 1000,
+    "area": "240",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/rq74jxa5zk28-PL/image;s=4032x3024",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/3yowxf4fgpvf3-PL/image;s=1599x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/418in0uwb26t2-PL/image;s=900x1600",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/nfnhnyu4vz7-PL/image;s=1599x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/mufeaifx44fg1-PL/image;s=1600x900",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hrt36lk4hy8b1-PL/image;s=4032x3024",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/6wf1pn7w8acx1-PL/image;s=4032x3024",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/sfovi8jnnn2z2-PL/image;s=3024x4032"
+    ],
+    "source": "olx",
+    "date": "2022-08-04T10:52:15+02:00",
+    "is_house": true
+  },
+  {
     "id": "olx:766672578",
     "title": "Wynajm\u0119 nowoczesny bezczynszowy dom z gara\u017cem!",
     "location": "starogard gda\u0144ski",
@@ -10699,25 +10680,43 @@ olx_data=[
     "is_house": true
   },
   {
-    "id": "olx:772837132",
-    "title": "Dom na cichym osiedlu niedaleko centrum Gdyni",
-    "location": "gdynia, ma\u0142y kack",
-    "url": "https://www.olx.pl/d/oferta/dom-na-cichym-osiedlu-niedaleko-centrum-gdyni-CID3-IDQiKf2.html",
-    "price": 7500,
-    "area": "126",
+    "id": "olx:704528357",
+    "title": "Wynajm\u0119 dom na wsi w gm. D\u0119bnica Kaszubska 28km do S\u0142upska",
+    "location": "gogolewo",
+    "url": "https://www.olx.pl/d/oferta/wynajme-dom-na-wsi-w-gm-debnica-kaszubska-28km-do-slupska-CID3-IDLG80B.html",
+    "price": 800,
+    "area": "80",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/lg2walp103121-PL/image;s=3000x4000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/niy597n8q2iv-PL/image;s=3000x4000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/nkdq1v4mt3md3-PL/image;s=4000x3000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/52ogxjwus7y5-PL/image;s=4000x3000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/t403cxfweptr2-PL/image;s=4000x3000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/9r78kd6vph033-PL/image;s=4000x3000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/khjklwhe6x8c-PL/image;s=4000x3000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/r42dfdsvsmy02-PL/image;s=4000x3000"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jcwayncuqs8v3-PL/image;s=1200x1600",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/fblvyqb5r8qz1-PL/image;s=1600x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8d2goc1j9tiz2-PL/image;s=1200x1600",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/pl9zqf23hgmq2-PL/image;s=1600x1200",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/crhkazb5grtn2-PL/image;s=1600x1200"
     ],
     "source": "olx",
-    "date": "2022-08-03T13:35:26+02:00",
+    "date": "2022-08-04T10:35:43+02:00",
+    "is_house": true
+  },
+  {
+    "id": "olx:753046190",
+    "title": "Willa Patrycja do wynaj\u0119cia - D\u0119bki",
+    "location": "d\u0119bki",
+    "url": "https://www.olx.pl/d/oferta/willa-patrycja-do-wynajecia-debki-CID3-IDOXHIi.html",
+    "price": 900,
+    "area": "87",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/il5m05fapvto1-PL/image;s=1200x900",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/r9kti0zd99md3-PL/image;s=1200x800",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/uqn78ightqbp-PL/image;s=1200x800",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hr0pttmv4xy03-PL/image;s=1200x800",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/fw1tl7l0mj15-PL/image;s=1200x800",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jzcasgujbi001-PL/image;s=1200x800",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/kdb07r4ji3me1-PL/image;s=1200x800"
+    ],
+    "source": "olx",
+    "date": "2022-08-04T16:00:15+02:00",
     "is_house": true
   },
   {
@@ -10743,66 +10742,25 @@ olx_data=[
     "is_house": true
   },
   {
-    "id": "olx:639563703",
-    "title": "Dom 100m2 do wynajecia",
-    "location": "swaro\u017cyn",
-    "url": "https://www.olx.pl/d/oferta/dom-100m2-do-wynajecia-CID3-IDHhxJB.html",
-    "price": 2200,
-    "area": "100",
+    "id": "olx:766302221",
+    "title": "Domki letniskowe \u0141eba",
+    "location": "now\u0119cin",
+    "url": "https://www.olx.pl/d/oferta/domki-letniskowe-leba-CID3-IDPRkdf.html",
+    "price": 400,
+    "area": "63",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/8hlyji40yjx31-PL/image;s=525x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/1l2v7eoxx0wz-PL/image;s=341x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/qpudpnafd8mk-PL/image;s=933x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/up6ujz6lre113-PL/image;s=525x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/eb0zuqip75cu3-PL/image;s=525x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/hp4u9u0oijx52-PL/image;s=525x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/4q6hiutz4py01-PL/image;s=525x700",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/io107vx08rol-PL/image;s=525x700"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/m6tqdtlvzlk02-PL/image;s=1080x1080",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/mp2iz0l4f2sk2-PL/image;s=2000x1333",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/803co5l24y2d-PL/image;s=2000x1333",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/esokdjh90e443-PL/image;s=2000x1333",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/qbexhn56y4ts1-PL/image;s=2000x1333",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/i11vnd3sg32w3-PL/image;s=2000x1333",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/d4xtg6up5xyj3-PL/image;s=2000x1333",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/lim6isrguyar2-PL/image;s=2000x1333"
     ],
     "source": "olx",
-    "date": "2022-08-03T14:40:22+02:00",
-    "is_house": true
-  },
-  {
-    "id": "olx:704528357",
-    "title": "Wynajm\u0119 dom na wsi w gm. D\u0119bnica Kaszubska 28km do S\u0142upska",
-    "location": "gogolewo",
-    "url": "https://www.olx.pl/d/oferta/wynajme-dom-na-wsi-w-gm-debnica-kaszubska-28km-do-slupska-CID3-IDLG80B.html",
-    "price": 800,
-    "area": "80",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/jcwayncuqs8v3-PL/image;s=1200x1600",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/fblvyqb5r8qz1-PL/image;s=1600x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/8d2goc1j9tiz2-PL/image;s=1200x1600",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/pl9zqf23hgmq2-PL/image;s=1600x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/crhkazb5grtn2-PL/image;s=1600x1200"
-    ],
-    "source": "olx",
-    "date": "2022-08-04T10:35:43+02:00",
-    "is_house": true
-  },
-  {
-    "id": "olx:762816157",
-    "title": "Wynajme domek letniskowy nad jeziorem",
-    "location": "sul\u0119czyno",
-    "url": "https://www.olx.pl/d/oferta/wynajme-domek-letniskowy-nad-jeziorem-CID3-IDPCHkp.html",
-    "price": 350,
-    "area": "900",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/942wefqiw0tu1-PL/image;s=3056x3056",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/wxk8n1kslmyr1-PL/image;s=3056x3056",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/56hz60uz0c8u3-PL/image;s=3056x3056",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/1urjahd6i0ko3-PL/image;s=2000x2000",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/wb8ncggo4b9c3-PL/image;s=3056x3056",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/td88bbazn0qe3-PL/image;s=1920x1920",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/14sdpahpizny2-PL/image;s=1920x1920",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/nn2z96vbdiop3-PL/image;s=1920x1920"
-    ],
-    "source": "olx",
-    "date": "2022-08-04T10:32:40+02:00",
+    "date": "2022-08-04T16:32:28+02:00",
     "is_house": true
   },
   {
@@ -10945,6 +10903,28 @@ olx_data=[
     "is_house": true
   },
   {
+    "id": "olx:772837132",
+    "title": "Dom na cichym osiedlu niedaleko centrum Gdyni",
+    "location": "gdynia, ma\u0142y kack",
+    "url": "https://www.olx.pl/d/oferta/dom-na-cichym-osiedlu-niedaleko-centrum-gdyni-CID3-IDQiKf2.html",
+    "price": 7500,
+    "area": "126",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/lg2walp103121-PL/image;s=3000x4000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/niy597n8q2iv-PL/image;s=3000x4000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/nkdq1v4mt3md3-PL/image;s=4000x3000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/52ogxjwus7y5-PL/image;s=4000x3000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/t403cxfweptr2-PL/image;s=4000x3000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/9r78kd6vph033-PL/image;s=4000x3000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/khjklwhe6x8c-PL/image;s=4000x3000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/r42dfdsvsmy02-PL/image;s=4000x3000"
+    ],
+    "source": "olx",
+    "date": "2022-08-03T13:35:26+02:00",
+    "is_house": true
+  },
+  {
     "id": "olx:673856392",
     "title": "Wynajem pokoi nad morzem w m. Jantar",
     "location": "jantar",
@@ -10967,22 +10947,47 @@ olx_data=[
     "is_house": true
   },
   {
-    "id": "olx:768804245",
-    "title": "Noclegi nad morzem, wakacje nad morzem 6-12 os WOLNY 09.08-13.08",
-    "location": "\u0142eba",
-    "url": "https://www.olx.pl/d/oferta/noclegi-nad-morzem-wakacje-nad-morzem-6-12-os-wolny-09-08-13-08-CID3-IDQ1P6t.html",
-    "price": 250,
-    "area": "50",
+    "id": "olx:754390745",
+    "title": "Wynajm\u0119 domek letniskowy przy jeziorze Somi\u0144skim i Skoszewskim",
+    "location": "sominki",
+    "url": "https://www.olx.pl/d/oferta/wynajme-domek-letniskowy-przy-jeziorze-sominskim-i-skoszewskim-CID3-IDP3luF.html",
+    "price": 500,
+    "area": "35",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/6gb4zhyxetir1-PL/image;s=2000x1334",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/he407xz7b9qi-PL/image;s=2000x1334",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/8iovphx8kuo93-PL/image;s=2000x1334",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/vrd2wle9y3is2-PL/image;s=2000x1334",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/b8lvos2hp88q-PL/image;s=2000x1334"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/iiqhmw9g8alq1-PL/image;s=1512x605",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tz340o55y8ia-PL/image;s=1387x640",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/rbb5mwofl4za1-PL/image;s=1381x922",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/rcpfi051uk092-PL/image;s=1323x917",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xvirnkmgthwl2-PL/image;s=1646x922",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/m4koehtmexuo-PL/image;s=640x1387",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/sxzkfto7l4p83-PL/image;s=2016x930",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/p1dzfa9fohft-PL/image;s=504x924"
     ],
     "source": "olx",
-    "date": "2022-08-04T17:30:28+02:00",
+    "date": "2022-08-03T10:56:14+02:00",
+    "is_house": true
+  },
+  {
+    "id": "olx:762816157",
+    "title": "Wynajme domek letniskowy nad jeziorem",
+    "location": "sul\u0119czyno",
+    "url": "https://www.olx.pl/d/oferta/wynajme-domek-letniskowy-nad-jeziorem-CID3-IDPCHkp.html",
+    "price": 350,
+    "area": "900",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/942wefqiw0tu1-PL/image;s=3056x3056",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/wxk8n1kslmyr1-PL/image;s=3056x3056",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/56hz60uz0c8u3-PL/image;s=3056x3056",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/1urjahd6i0ko3-PL/image;s=2000x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/wb8ncggo4b9c3-PL/image;s=3056x3056",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/td88bbazn0qe3-PL/image;s=1920x1920",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/14sdpahpizny2-PL/image;s=1920x1920",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/nn2z96vbdiop3-PL/image;s=1920x1920"
+    ],
+    "source": "olx",
+    "date": "2022-08-04T10:32:40+02:00",
     "is_house": true
   },
   {
@@ -11004,47 +11009,25 @@ olx_data=[
     "is_house": true
   },
   {
-    "id": "olx:769768667",
-    "title": "Domek letniskowy Kaszuby 250 z\u0142",
-    "location": "\u0142ubiana",
-    "url": "https://www.olx.pl/d/oferta/domek-letniskowy-kaszuby-250-zl-CID3-IDQ5RZF.html",
-    "price": 250,
-    "area": "70",
+    "id": "olx:639563703",
+    "title": "Dom 100m2 do wynajecia",
+    "location": "swaro\u017cyn",
+    "url": "https://www.olx.pl/d/oferta/dom-100m2-do-wynajecia-CID3-IDHhxJB.html",
+    "price": 2200,
+    "area": "100",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/04plyu3tu2fz1-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/7tzfdg54kjyv3-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/ylsbedp4wpff-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/h1w9ezn7o5wh2-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/q2undts0azur1-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/iqnqu05ti0iv-PL/image;s=2000x2667",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/168yxscdxzx71-PL/image;s=3024x4032",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/yidvnvye2yhi-PL/image;s=3024x4032"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8hlyji40yjx31-PL/image;s=525x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/1l2v7eoxx0wz-PL/image;s=341x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/qpudpnafd8mk-PL/image;s=933x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/up6ujz6lre113-PL/image;s=525x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/eb0zuqip75cu3-PL/image;s=525x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hp4u9u0oijx52-PL/image;s=525x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4q6hiutz4py01-PL/image;s=525x700",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/io107vx08rol-PL/image;s=525x700"
     ],
     "source": "olx",
-    "date": "2022-08-02T16:52:49+02:00",
-    "is_house": true
-  },
-  {
-    "id": "olx:754390745",
-    "title": "Wynajm\u0119 domek letniskowy przy jeziorze Somi\u0144skim i Skoszewskim",
-    "location": "sominki",
-    "url": "https://www.olx.pl/d/oferta/wynajme-domek-letniskowy-przy-jeziorze-sominskim-i-skoszewskim-CID3-IDP3luF.html",
-    "price": 500,
-    "area": "35",
-    "rooms": "0",
-    "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/iiqhmw9g8alq1-PL/image;s=1512x605",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/tz340o55y8ia-PL/image;s=1387x640",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/rbb5mwofl4za1-PL/image;s=1381x922",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/rcpfi051uk092-PL/image;s=1323x917",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/xvirnkmgthwl2-PL/image;s=1646x922",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/m4koehtmexuo-PL/image;s=640x1387",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/sxzkfto7l4p83-PL/image;s=2016x930",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/p1dzfa9fohft-PL/image;s=504x924"
-    ],
-    "source": "olx",
-    "date": "2022-08-03T10:56:14+02:00",
+    "date": "2022-08-03T14:40:22+02:00",
     "is_house": true
   },
   {
@@ -11233,69 +11216,64 @@ olx_data=[
     "is_house": true
   },
   {
-    "id": "olx:685865221",
-    "title": "Klimatyczny domek nad jeziorem Garczyn ko\u0142o Ko\u015bcierzyny z basenem",
-    "location": "garczyn",
-    "url": "https://www.olx.pl/d/oferta/klimatyczny-domek-nad-jeziorem-garczyn-kolo-koscierzyny-z-basenem-CID3-IDKpOSh.html",
-    "price": 550,
-    "area": "45",
+    "id": "olx:772954846",
+    "title": "Wynajm\u0119  Dom z Ogrodem",
+    "location": "kartuzy",
+    "url": "https://www.olx.pl/d/oferta/wynajme-dom-z-ogrodem-CID3-IDQjeRE.html",
+    "price": 3300,
+    "area": "110",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/yfu56sjbkze33-PL/image;s=1008x567",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/vivfs37p1at82-PL/image;s=567x1008",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/zyaf0oe0cmgp-PL/image;s=1008x567",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/bthkg48iyq1s-PL/image;s=1152x648",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/37pyao6pyz0w-PL/image;s=1152x648",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/mw9v5d122wkf1-PL/image;s=1152x648",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/wi1qf5xoq7rq2-PL/image;s=1152x648",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/oa8xakz0oy5i2-PL/image;s=1008x567"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/z1oo3mb1dfia1-PL/image;s=1500x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/mupkwrv8aoe51-PL/image;s=1288x966",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/d672v1mkvaqm2-PL/image;s=966x1288",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/ki8eytgq3f6l-PL/image;s=1288x966",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/zvkgnjp6jm243-PL/image;s=966x1288",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/2i0ii8yvzaj01-PL/image;s=966x1288",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/tpjwrjv12g58-PL/image;s=1288x966",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/k5uyafhwnfm31-PL/image;s=1500x2000"
     ],
     "source": "olx",
-    "date": "2022-08-04T16:32:34+02:00",
+    "date": "2022-08-03T22:04:57+02:00",
     "is_house": true
   },
   {
-    "id": "olx:766302221",
-    "title": "Domki letniskowe \u0141eba",
-    "location": "now\u0119cin",
-    "url": "https://www.olx.pl/d/oferta/domki-letniskowe-leba-CID3-IDPRkdf.html",
-    "price": 400,
-    "area": "63",
+    "id": "olx:766974791",
+    "title": "Domki nad morzem z \u0142azienk\u0105, aneksem, tv, wi-fi WOLNE TERMINY",
+    "location": "\u0142eba",
+    "url": "https://www.olx.pl/d/oferta/domki-nad-morzem-z-lazienka-aneksem-tv-wi-fi-wolne-terminy-CID3-IDPU9b9.html",
+    "price": 250,
+    "area": "70",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/m6tqdtlvzlk02-PL/image;s=1080x1080",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/mp2iz0l4f2sk2-PL/image;s=2000x1333",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/803co5l24y2d-PL/image;s=2000x1333",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/esokdjh90e443-PL/image;s=2000x1333",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/qbexhn56y4ts1-PL/image;s=2000x1333",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/i11vnd3sg32w3-PL/image;s=2000x1333",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/d4xtg6up5xyj3-PL/image;s=2000x1333",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/lim6isrguyar2-PL/image;s=2000x1333"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/aasilji4ggv3-PL/image;s=2000x1334",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/n7mtjkmr2u2z2-PL/image;s=3000x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/roa8wvrmkktp3-PL/image;s=3000x2000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/xp33moesspfa2-PL/image;s=2000x1334",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/grurmvskon1t-PL/image;s=2000x1334",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/dsr3umj99ck53-PL/image;s=2000x1334"
     ],
     "source": "olx",
-    "date": "2022-08-04T16:32:28+02:00",
+    "date": "2022-08-04T17:30:05+02:00",
     "is_house": true
   },
   {
-    "id": "olx:733538553",
-    "title": "Kaszuby, las, jezioro,  \u0142\u0105ka,  wakacje w domu z basenem na Kaszubach",
-    "location": "radu\u0144",
-    "url": "https://www.olx.pl/d/oferta/kaszuby-las-jezioro-laka-wakacje-w-domu-z-basenem-na-kaszubach-CID3-IDNDQSZ.html",
-    "price": 1000,
-    "area": "240",
+    "id": "olx:768804245",
+    "title": "Noclegi nad morzem, wakacje nad morzem 6-12 os WOLNY 09.08-13.08",
+    "location": "\u0142eba",
+    "url": "https://www.olx.pl/d/oferta/noclegi-nad-morzem-wakacje-nad-morzem-6-12-os-wolny-09-08-13-08-CID3-IDQ1P6t.html",
+    "price": 250,
+    "area": "50",
     "rooms": "0",
     "images": [
-      "https://ireland.apollo.olxcdn.com:443/v1/files/rq74jxa5zk28-PL/image;s=4032x3024",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/3yowxf4fgpvf3-PL/image;s=1599x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/418in0uwb26t2-PL/image;s=900x1600",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/nfnhnyu4vz7-PL/image;s=1599x1200",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/mufeaifx44fg1-PL/image;s=1600x900",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/hrt36lk4hy8b1-PL/image;s=4032x3024",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/6wf1pn7w8acx1-PL/image;s=4032x3024",
-      "https://ireland.apollo.olxcdn.com:443/v1/files/sfovi8jnnn2z2-PL/image;s=3024x4032"
+      "https://ireland.apollo.olxcdn.com:443/v1/files/6gb4zhyxetir1-PL/image;s=2000x1334",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/he407xz7b9qi-PL/image;s=2000x1334",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/8iovphx8kuo93-PL/image;s=2000x1334",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vrd2wle9y3is2-PL/image;s=2000x1334",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/b8lvos2hp88q-PL/image;s=2000x1334"
     ],
     "source": "olx",
-    "date": "2022-08-04T10:52:15+02:00",
+    "date": "2022-08-04T17:30:28+02:00",
     "is_house": true
   },
   {
@@ -11518,6 +11496,28 @@ olx_data=[
     ],
     "source": "olx",
     "date": "2022-08-01T08:26:20+02:00",
+    "is_house": true
+  },
+  {
+    "id": "olx:770681849",
+    "title": "Baltic House- ca\u0142oroczne domki na wynajem",
+    "location": "karwia",
+    "url": "https://www.olx.pl/d/oferta/baltic-house-caloroczne-domki-na-wynajem-CID3-IDQ9Hyp.html",
+    "price": 600,
+    "area": "35",
+    "rooms": "0",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/87ow3hah0okb1-PL/image;s=1000x498",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/hx7mv7csgkee-PL/image;s=1000x750",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/4l7lobp0mqjl-PL/image;s=706x1000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/2lapqik2vama1-PL/image;s=1000x960",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/vf16zuibd82t1-PL/image;s=1000x750",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/j4kq91jptsyr1-PL/image;s=1000x985",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/uaankyipvnru-PL/image;s=750x1000",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/i5ql5i5acfph1-PL/image;s=750x1000"
+    ],
+    "source": "olx",
+    "date": "2022-08-01T20:28:18+02:00",
     "is_house": true
   },
   {
